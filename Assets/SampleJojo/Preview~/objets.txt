@@ -1,0 +1,4 @@
+antiseche taille=(0.090, 0.007, 0.061)
+lunettes3d taille=(0.150, 0.034, 0.105)
+doflamingo taille=(0.150, 0.074, 0.094)
+cafe taille=(0.078, 0.100, 0.078)

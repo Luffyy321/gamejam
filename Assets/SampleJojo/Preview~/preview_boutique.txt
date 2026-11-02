@@ -1,0 +1,14 @@
+=== Assets/SampleJojo/model/Props/boutique/Casier/Casier.fbx
+  Casier lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  Дверца lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(1.337, 0.000, 0.000) taille=(0.111, 5.000, 1.400) verts=288 mats=Material.054{ RGBA(0.91, 0.91, 0.91, 1.00)},Material.055{ RGBA(0.91, 0.91, 0.91, 1.00)},Material.056{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  Корпус lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(1.400, 5.000, 1.400) verts=48 mats=Lit{ RGBA(0.50, 0.50, 0.50, 1.00)}
+  Полки lrot=(0, 0, 0) lsc=(0.97, 1.00, 1.00) centre=(0.000, -0.126, 0.000) taille=(1.352, 2.655, 1.302) verts=48 mats=Material.057{ RGBA(0.91, 0.91, 0.91, 1.00)},Material.058{ RGBA(0.91, 0.91, 0.91, 1.00)}
+=== Assets/SampleJojo/model/Props/boutique/Coca/Coca.blend
+  Coca lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.075, 0.000) taille=(2.000, 3.175, 2.000) verts=1071 mats=Material.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+=== Assets/SampleJojo/model/Props/boutique/Pilule/Pilule.fbx
+  Pilule lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  Roundcube lrot=(270, 0, 0) lsc=(100.00, 100.00, 100.00) centre=(-1.255, 0.000, 0.000) taille=(2.489, 2.000, 2.000) verts=401 mats=Material{ RGBA(1.00, 1.00, 1.00, 1.00)}
+  Roundcube.001 lrot=(270, 0, 0) lsc=(97.73, 97.73, 97.73) centre=(1.227, 0.004, 0.000) taille=(2.602, 2.093, 2.087) verts=401 mats=Material.001{ RGBA(0.91, 0.18, 0.18, 1.00)}
+=== Assets/SampleJojo/model/Props/boutique/Seringue/syringe.obj
+  syringe lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  default lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(1.781, 0.000, 0.000) taille=(30.492, 2.872, 9.733) verts=1894 mats=drug{ RGBA(0.43, 0.91, 0.33, 0.52)},None{ RGBA(0.91, 0.91, 0.91, 1.00)},Material.001{ RGBA(0.82, 0.82, 0.82, 1.00)},needle{ RGBA(0.31, 0.31, 0.31, 1.00)},Material.002{ RGBA(0.77, 0.85, 0.91, 0.71)}

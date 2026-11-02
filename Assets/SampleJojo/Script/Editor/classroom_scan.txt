@@ -1,0 +1,184 @@
+== Objets du .blend (ok) ==
+Salle de Classe WALAD /Base | rendu=True centre=(5.29, 3.88, -0.02) taille=(26.44, 8.42, 11.40) rot=(270, 0, 0) mats=Sol,Mur F,RB FC,RB C,Mur C
+Salle de Classe WALAD /Bois | rendu=True centre=(-5.68, 0.00, 0.00) taille=(3.63, 0.24, 8.38) rot=(270, 0, 0) mats=Ombre bois  C,Ombre F,Bois
+Salle de Classe WALAD /book_a.001 | rendu=True centre=(17.59, 2.21, -0.99) taille=(0.57, 4.25, 7.06) rot=(0, 180, 90) mats=Material.037,Material.038,Material.072,Material.040,Material.074,Material.073,Material.071
+Salle de Classe WALAD /book_a_open | rendu=True centre=(-4.60, 1.92, -2.39) taille=(0.85, 0.10, 1.04) rot=(270, 347, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.001 | rendu=True centre=(-0.67, 1.70, -3.52) taille=(0.79, 0.10, 1.01) rot=(270, 9, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.002 | rendu=True centre=(0.50, 0.90, 3.62) taille=(1.02, 0.10, 1.12) rot=(270, 30, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.003 | rendu=True centre=(-0.64, 1.70, -0.13) taille=(0.75, 0.10, 0.98) rot=(270, 354, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.004 | rendu=True centre=(3.84, 1.70, -0.54) taille=(0.90, 0.10, 1.07) rot=(270, 17, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.005 | rendu=True centre=(3.54, 1.70, 3.54) taille=(0.67, 0.10, 0.93) rot=(270, 359, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.006 | rendu=True centre=(7.83, 1.70, 0.03) taille=(0.81, 0.10, 1.02) rot=(270, 10, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.007 | rendu=True centre=(11.94, 1.70, 0.11) taille=(0.81, 0.10, 1.02) rot=(270, 10, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /book_a_open.008 | rendu=True centre=(12.30, 1.70, -2.91) taille=(0.90, 0.10, 1.07) rot=(270, 18, 0) mats=Material.044,Material.045,Material.046
+Salle de Classe WALAD /Bueau | rendu=True centre=(-4.61, 0.98, -2.32) taille=(1.44, 1.77, 3.76) rot=(270, 0, 0) mats=Material,Material.010,Material.007,Material.016
+Salle de Classe WALAD /Bureau  | rendu=False centre=(-0.39, 1.23, -3.58) taille=(0.00, 0.00, 0.00) rot=(270, 0, 0) mats=
+Salle de Classe WALAD /Bureau /Chaise | rendu=True centre=(7.16, 1.11, 0.04) taille=(14.33, 2.20, 8.41) rot=(270, 0, 0) mats=Ombre 02,Ombre 01,Haut Table,Pied
+Salle de Classe WALAD /Bureau /Table | rendu=True centre=(5.50, 0.83, 0.00) taille=(14.20, 1.64, 8.95) rot=(270, 0, 0) mats=Haut Table,Ombre 01,Ombre 02,Ombre FC,Pied
+Salle de Classe WALAD /Camera | rendu=False centre=(20.02, 6.18, 4.44) taille=(0.00, 0.00, 0.00) rot=(15, 251, 0) mats=
+Salle de Classe WALAD /Circle | rendu=True centre=(-6.88, 0.41, 3.71) taille=(0.59, 0.59, 0.59) rot=(270, 0, 0) mats=Material.014,Material.013,Material.015
+Salle de Classe WALAD /Circle.001 | rendu=True centre=(17.74, 2.30, 1.81) taille=(0.97, 0.94, 0.98) rot=(0, 314, 0) mats=Material.051,Material.019,Material.080,Material.079
+Salle de Classe WALAD /clock main | rendu=True centre=(-7.62, 6.73, 0.76) taille=(0.15, 1.56, 1.56) rot=(0, 90, 0) mats=Material.029,Material.030,Material.027,Material.028
+Salle de Classe WALAD /Cube | rendu=True centre=(-7.40, 3.55, 0.95) taille=(0.38, 3.58, 5.95) rot=(270, 0, 0) mats=Material.023,Material.025,Tableau,Material.002,Material.003
+Salle de Classe WALAD /Cube.001 | rendu=True centre=(17.66, 2.33, -2.86) taille=(1.17, 4.68, 3.40) rot=(270, 0, 0) mats=Bois,Ombre bois  C,Ombre F
+Salle de Classe WALAD /Cube.002 | rendu=True centre=(17.66, 0.92, 1.41) taille=(1.17, 1.84, 3.40) rot=(270, 0, 0) mats=Bois,Ombre bois  C,Ombre F
+Salle de Classe WALAD /Cube.003 | rendu=True centre=(-5.96, 2.52, 5.54) taille=(2.50, 4.96, 0.13) rot=(270, 0, 0) mats=Material.036,Material.035,Material.039,Material.041
+Salle de Classe WALAD /Cube.004 | rendu=True centre=(5.29, 3.90, -0.02) taille=(26.45, 8.35, 11.26) rot=(270, 0, 0) mats=Material.042
+Salle de Classe WALAD /Cylinder.001 | rendu=True centre=(2.98, 1.73, 0.46) taille=(0.47, 0.21, 0.57) rot=(270, 122, 0) mats=Material.005,Material.022,Material.006,Material.001
+Salle de Classe WALAD /Cylinder.002 | rendu=True centre=(-1.36, 1.73, 0.41) taille=(0.30, 0.21, 0.55) rot=(270, 99, 0) mats=Material.005,Material.011,Material.001
+Salle de Classe WALAD /Cylinder.003 | rendu=True centre=(-1.36, 1.73, 3.41) taille=(0.29, 0.18, 0.47) rot=(270, 76, 0) mats=Material.005,Material.009,Material.001
+Salle de Classe WALAD /Cylinder.004 | rendu=True centre=(-1.26, 1.73, -3.97) taille=(0.32, 0.21, 0.56) rot=(270, 79, 0) mats=Material.005,Material.022,Material.006,Material.001
+Salle de Classe WALAD /Cylinder.005 | rendu=True centre=(7.08, 1.73, -0.09) taille=(0.33, 0.18, 0.48) rot=(270, 70, 0) mats=Material.005,Material.012,Material.001
+Salle de Classe WALAD /Cylinder.006 | rendu=True centre=(2.83, 1.73, 4.07) taille=(0.35, 0.18, 0.48) rot=(270, 113, 0) mats=Material.005,Material.008,Material.001
+Salle de Classe WALAD /Cylinder.007 | rendu=True centre=(11.26, 1.73, -4.12) taille=(0.25, 0.18, 0.47) rot=(270, 82, 0) mats=Material.005,Material.009
+Salle de Classe WALAD /Cylinder.008 | rendu=True centre=(11.28, 1.73, -0.03) taille=(0.27, 0.18, 0.47) rot=(270, 101, 0) mats=Material.005,Material.011
+Salle de Classe WALAD /Fauteille | rendu=False centre=(-6.18, 3.17, -2.64) taille=(0.00, 0.00, 0.00) rot=(270, 76, 0) mats=
+Salle de Classe WALAD /Fauteille/ChairSeat_LP4 | rendu=True centre=(-6.21, 2.07, -2.63) taille=(1.91, 2.09, 2.15) rot=(0, 76, 0) mats=Cuir,Ombre GF,Base,Ombre N
+Salle de Classe WALAD /Fauteille/Leg_LP5.003 | rendu=True centre=(-6.11, 0.28, -2.57) taille=(2.25, 0.33, 2.26) rot=(0, 117, 0) mats=Base,Ombre N
+Salle de Classe WALAD /Fauteille/Underside_LP | rendu=True centre=(-6.10, 0.68, -2.60) taille=(0.85, 0.72, 0.86) rot=(0, 76, 0) mats=Base,Ombre N
+Salle de Classe WALAD /Fenêtre | rendu=True centre=(4.70, 4.67, -5.64) taille=(13.59, 3.94, 0.16) rot=(270, 0, 0) mats=Material.025,Material.023,Material.024,Fenêtre,Material.026
+Salle de Classe WALAD /Plane | rendu=True centre=(14.52, 4.13, -5.66) taille=(3.14, 4.36, 0.11) rot=(0, 0, 0) mats=Material.031,Material.033
+Salle de Classe WALAD /Plane.001 | rendu=True centre=(9.64, 0.41, -1.38) taille=(0.95, 0.14, 0.91) rot=(270, 341, 0) mats=Material.018,Material.017
+Salle de Classe WALAD /Plane.002 | rendu=True centre=(1.89, 0.07, 2.45) taille=(0.86, 0.14, 0.81) rot=(270, 9, 0) mats=Material.018,Material.017
+Salle de Classe WALAD /Plane.003 | rendu=True centre=(-6.08, 0.18, 1.23) taille=(1.03, 0.14, 1.03) rot=(270, 130, 0) mats=Material.018,Material.017
+Salle de Classe WALAD /Plane.004 | rendu=True centre=(-4.74, 1.88, -1.40) taille=(0.94, 0.00, 0.83) rot=(270, 335, 0) mats=Material.020
+Salle de Classe WALAD /Plane.005 | rendu=True centre=(-4.74, 1.90, -1.40) taille=(0.93, 0.00, 0.95) rot=(270, 313, 0) mats=Material.021
+Salle de Classe WALAD /Plane.006 | rendu=True centre=(6.23, 0.01, 0.05) taille=(15.83, 0.00, 8.98) rot=(270, 0, 0) mats=Material.034
+Salle de Classe WALAD /Sun | rendu=False centre=(-2.12, 10.47, 13.07) taille=(0.00, 0.00, 0.00) rot=(83, 320, 322) mats=
+== Scène : portes / murs / fenêtres / tableaux (salle du bas, y < 5) ==
+TableauContour.002 centre=(4.65, 2.80, 0.55) taille=(3.86, 1.29, 0.01)
+Door_Knob centre=(0.89, 1.84, 5.90) taille=(0.06, 0.05, 0.06)
+TableauContour.003 centre=(1.95, 2.80, 5.65) taille=(0.01, 1.29, 3.86)
+Tableauquipese4TONNES.005 centre=(12.35, 2.51, 8.83) taille=(0.74, 1.95, 0.87)
+Tableauquipese4TONNES.002 centre=(12.35, 2.51, 10.92) taille=(0.74, 1.95, 0.87)
+Tableauquipese4TONNES.004 centre=(12.35, 2.51, 12.01) taille=(0.74, 1.95, 0.87)
+Tableauquipese4TONNES.001 centre=(11.33, 2.51, 9.85) taille=(0.74, 1.95, 0.87)
+Tableauquipese4TONNES.003 centre=(12.35, 2.51, 9.85) taille=(0.74, 1.95, 0.87)
+Door_Knob_2 centre=(0.50, 1.90, 6.71) taille=(0.06, 0.05, 0.06)
+Tableau.003 centre=(1.96, 2.80, 5.65) taille=(0.01, 1.26, 3.83)
+Door_Knob_1 centre=(0.67, 1.69, 6.76) taille=(0.06, 0.05, 0.06)
+Tableau.002 centre=(4.65, 2.80, 0.55) taille=(3.83, 1.26, 0.01)
+Door_Knob_3 centre=(0.53, 2.06, 6.72) taille=(0.06, 0.05, 0.06)
+Tableauquipese4TONNES centre=(11.33, 2.51, 10.92) taille=(0.74, 1.95, 0.87)
+== Tables de l'utilisateur (objet Desk) ==
+Desk/dupli (20)/Chaise du jeu (1)/Plane centre=(-1.06, 1.93, 1.16) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (20)/Chaise du jeu (1)/Plane.001 centre=(-1.07, 2.15, 1.16) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (20)/Chaise du jeu (1)/Plane.002 centre=(-1.13, 2.10, 1.15) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (20)/Untitled/BezierCurve centre=(-0.45, 1.89, 1.20) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (20)/Untitled/Circle.001 centre=(-0.45, 1.53, 1.20) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (20)/Untitled/Cylinder centre=(-0.45, 1.69, 1.20) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (20)/Untitled/Cylinder.001 centre=(-0.34, 1.69, 1.20) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (20)/Untitled/Plane centre=(-0.45, 2.27, 1.20) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (20)/Untitled/Plane.001 centre=(-0.45, 2.19, 1.20) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (20)/Untitled/Plane.002 centre=(-0.45, 1.72, 1.20) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (25)/Chaise du jeu (1)/Plane centre=(-1.06, 1.93, 3.31) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (25)/Chaise du jeu (1)/Plane.001 centre=(-1.07, 2.15, 3.31) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (25)/Chaise du jeu (1)/Plane.002 centre=(-1.13, 2.10, 3.30) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (25)/Untitled/BezierCurve centre=(-0.45, 1.89, 3.35) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (25)/Untitled/Circle.001 centre=(-0.45, 1.53, 3.35) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (25)/Untitled/Cylinder centre=(-0.45, 1.69, 3.35) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (25)/Untitled/Cylinder.001 centre=(-0.34, 1.69, 3.34) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (25)/Untitled/Plane centre=(-0.45, 2.27, 3.35) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (25)/Untitled/Plane.001 centre=(-0.45, 2.19, 3.35) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (25)/Untitled/Plane.002 centre=(-0.45, 1.72, 3.34) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (31)/Chaise du jeu (1)/Plane centre=(-2.58, 1.93, 3.31) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (31)/Chaise du jeu (1)/Plane.001 centre=(-2.59, 2.15, 3.31) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (31)/Chaise du jeu (1)/Plane.002 centre=(-2.64, 2.10, 3.30) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (31)/Untitled/BezierCurve centre=(-1.97, 1.89, 3.35) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (31)/Untitled/Circle.001 centre=(-1.97, 1.53, 3.35) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (31)/Untitled/Cylinder centre=(-1.96, 1.69, 3.35) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (31)/Untitled/Cylinder.001 centre=(-1.85, 1.69, 3.34) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (31)/Untitled/Plane centre=(-1.96, 2.27, 3.35) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (31)/Untitled/Plane.001 centre=(-1.96, 2.19, 3.35) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (31)/Untitled/Plane.002 centre=(-1.96, 1.72, 3.34) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (33)/Chaise du jeu (1)/Plane centre=(-5.37, 1.93, 3.31) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (33)/Chaise du jeu (1)/Plane.001 centre=(-5.38, 2.15, 3.31) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (33)/Chaise du jeu (1)/Plane.002 centre=(-5.44, 2.10, 3.30) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (33)/Untitled/BezierCurve centre=(-4.77, 1.89, 3.35) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (33)/Untitled/Circle.001 centre=(-4.77, 1.53, 3.35) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (33)/Untitled/Cylinder centre=(-4.76, 1.69, 3.35) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (33)/Untitled/Cylinder.001 centre=(-4.65, 1.69, 3.34) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (33)/Untitled/Plane centre=(-4.76, 2.27, 3.35) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (33)/Untitled/Plane.001 centre=(-4.76, 2.19, 3.35) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (33)/Untitled/Plane.002 centre=(-4.76, 1.72, 3.34) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (26)/Chaise du jeu (1)/Plane centre=(-1.06, 1.93, 5.53) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (26)/Chaise du jeu (1)/Plane.001 centre=(-1.07, 2.15, 5.53) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (26)/Chaise du jeu (1)/Plane.002 centre=(-1.13, 2.10, 5.52) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (26)/Untitled/BezierCurve centre=(-0.45, 1.89, 5.57) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (26)/Untitled/Circle.001 centre=(-0.45, 1.53, 5.57) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (26)/Untitled/Cylinder centre=(-0.45, 1.69, 5.57) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (26)/Untitled/Cylinder.001 centre=(-0.34, 1.69, 5.56) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (26)/Untitled/Plane centre=(-0.45, 2.27, 5.57) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (26)/Untitled/Plane.001 centre=(-0.45, 2.19, 5.57) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (26)/Untitled/Plane.002 centre=(-0.45, 1.72, 5.56) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (27)/Chaise du jeu (1)/Plane centre=(-2.54, 1.93, 5.53) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (27)/Chaise du jeu (1)/Plane.001 centre=(-2.55, 2.15, 5.53) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (27)/Chaise du jeu (1)/Plane.002 centre=(-2.61, 2.10, 5.52) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (27)/Untitled/BezierCurve centre=(-1.94, 1.89, 5.57) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (27)/Untitled/Circle.001 centre=(-1.94, 1.53, 5.57) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (27)/Untitled/Cylinder centre=(-1.93, 1.69, 5.57) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (27)/Untitled/Cylinder.001 centre=(-1.82, 1.69, 5.56) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (27)/Untitled/Plane centre=(-1.93, 2.27, 5.57) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (27)/Untitled/Plane.001 centre=(-1.93, 2.19, 5.57) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (27)/Untitled/Plane.002 centre=(-1.93, 1.72, 5.56) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (29)/Chaise du jeu (1)/Plane centre=(-5.36, 1.93, 5.53) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (29)/Chaise du jeu (1)/Plane.001 centre=(-5.37, 2.15, 5.53) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (29)/Chaise du jeu (1)/Plane.002 centre=(-5.42, 2.10, 5.52) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (29)/Untitled/BezierCurve centre=(-4.75, 1.89, 5.57) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (29)/Untitled/Circle.001 centre=(-4.75, 1.53, 5.57) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (29)/Untitled/Cylinder centre=(-4.75, 1.69, 5.57) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (29)/Untitled/Cylinder.001 centre=(-4.63, 1.69, 5.56) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (29)/Untitled/Plane centre=(-4.75, 2.27, 5.57) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (29)/Untitled/Plane.001 centre=(-4.75, 2.19, 5.57) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (29)/Untitled/Plane.002 centre=(-4.74, 1.72, 5.56) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (30)/Chaise du jeu (1)/Plane centre=(-6.76, 1.93, 5.53) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (30)/Chaise du jeu (1)/Plane.001 centre=(-6.77, 2.15, 5.53) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (30)/Chaise du jeu (1)/Plane.002 centre=(-6.82, 2.10, 5.52) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (30)/Untitled/BezierCurve centre=(-6.15, 1.89, 5.57) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (30)/Untitled/Circle.001 centre=(-6.15, 1.53, 5.57) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (30)/Untitled/Cylinder centre=(-6.15, 1.69, 5.57) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (30)/Untitled/Cylinder.001 centre=(-6.04, 1.69, 5.56) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (30)/Untitled/Plane centre=(-6.15, 2.27, 5.57) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (30)/Untitled/Plane.001 centre=(-6.15, 2.19, 5.57) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (30)/Untitled/Plane.002 centre=(-6.14, 1.72, 5.56) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (21)/Chaise du jeu (1)/Plane centre=(-2.50, 1.93, 1.16) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (21)/Chaise du jeu (1)/Plane.001 centre=(-2.50, 2.15, 1.16) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (21)/Chaise du jeu (1)/Plane.002 centre=(-2.56, 2.10, 1.15) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (21)/Untitled/BezierCurve centre=(-1.89, 1.89, 1.20) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (21)/Untitled/Circle.001 centre=(-1.89, 1.53, 1.20) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (21)/Untitled/Cylinder centre=(-1.88, 1.69, 1.20) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (21)/Untitled/Cylinder.001 centre=(-1.77, 1.69, 1.20) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (21)/Untitled/Plane centre=(-1.88, 2.27, 1.20) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (21)/Untitled/Plane.001 centre=(-1.88, 2.19, 1.20) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (21)/Untitled/Plane.002 centre=(-1.88, 1.72, 1.20) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (21)/pot-de-crayon (1) centre=(-1.71, 2.40, 0.71) taille=(0.11, 0.22, 0.11) haut=2,506
+Desk/dupli (22)/Chaise du jeu (1)/Plane centre=(-3.96, 1.93, 1.16) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (22)/Chaise du jeu (1)/Plane.001 centre=(-3.97, 2.15, 1.16) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (22)/Chaise du jeu (1)/Plane.002 centre=(-4.03, 2.10, 1.15) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (22)/Untitled/BezierCurve centre=(-3.36, 1.89, 1.20) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (22)/Untitled/Circle.001 centre=(-3.36, 1.53, 1.20) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (22)/Untitled/Cylinder centre=(-3.35, 1.69, 1.20) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (22)/Untitled/Cylinder.001 centre=(-3.24, 1.69, 1.20) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (22)/Untitled/Plane centre=(-3.35, 2.27, 1.20) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (22)/Untitled/Plane.001 centre=(-3.35, 2.19, 1.20) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (22)/Untitled/Plane.002 centre=(-3.35, 1.72, 1.20) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (23)/Chaise du jeu (1)/Plane centre=(-5.41, 1.93, 1.16) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (23)/Chaise du jeu (1)/Plane.001 centre=(-5.42, 2.15, 1.16) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (23)/Chaise du jeu (1)/Plane.002 centre=(-5.48, 2.10, 1.15) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (23)/Untitled/BezierCurve centre=(-4.81, 1.89, 1.20) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (23)/Untitled/Circle.001 centre=(-4.81, 1.53, 1.20) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (23)/Untitled/Cylinder centre=(-4.80, 1.69, 1.20) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (23)/Untitled/Cylinder.001 centre=(-4.69, 1.69, 1.20) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (23)/Untitled/Plane centre=(-4.80, 2.27, 1.20) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (23)/Untitled/Plane.001 centre=(-4.80, 2.19, 1.20) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (23)/Untitled/Plane.002 centre=(-4.80, 1.72, 1.20) taille=(0.44, 0.03, 1.11) haut=1,737
+Desk/dupli (24)/Chaise du jeu (1)/Plane centre=(-6.80, 1.93, 1.16) taille=(0.53, 0.82, 0.45) haut=2,336
+Desk/dupli (24)/Chaise du jeu (1)/Plane.001 centre=(-6.81, 2.15, 1.16) taille=(0.53, 0.43, 0.45) haut=2,366
+Desk/dupli (24)/Chaise du jeu (1)/Plane.002 centre=(-6.86, 2.10, 1.15) taille=(0.40, 0.34, 0.40) haut=2,274
+Desk/dupli (24)/Untitled/BezierCurve centre=(-6.19, 1.89, 1.20) taille=(0.52, 0.73, 1.18) haut=2,257
+Desk/dupli (24)/Untitled/Circle.001 centre=(-6.19, 1.53, 1.20) taille=(0.53, 0.01, 1.19) haut=1,536
+Desk/dupli (24)/Untitled/Cylinder centre=(-6.19, 1.69, 1.20) taille=(0.44, 0.02, 1.17) haut=1,704
+Desk/dupli (24)/Untitled/Cylinder.001 centre=(-6.07, 1.69, 1.20) taille=(0.24, 0.02, 1.15) haut=1,704
+Desk/dupli (24)/Untitled/Plane centre=(-6.19, 2.27, 1.20) taille=(0.62, 0.03, 1.22) haut=2,287
+Desk/dupli (24)/Untitled/Plane.001 centre=(-6.19, 2.19, 1.20) taille=(0.56, 0.13, 1.12) haut=2,256
+Desk/dupli (24)/Untitled/Plane.002 centre=(-6.18, 1.72, 1.20) taille=(0.44, 0.03, 1.11) haut=1,737

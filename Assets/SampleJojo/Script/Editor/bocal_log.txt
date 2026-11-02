@@ -1,0 +1,6 @@
+table : 3902 points à y=2,29 x -6,75→-5,65 z 2,56→3,94
+collider sous l'emplacement : Collision plateau (1.12, 0.03, 1.42)
+meuble : BezierCurve x -6,57→-6,03 z 2,78→3,97
+parois sur le calque Bocal (8)
+bocal en (-6.19, 2.29, 2.90), 6 sortes de pièces
+fente sur le dessus de la machine (avant local (0.00, 0.00, 1.00), côté 1 (levier -84,611), demi-largeur 110,250) à (-5.24, 2.88, 3.45)

@@ -1,0 +1,44 @@
+source interior min=(-7.43, 1.53, 0.55) max=(1.95, 3.50, 8.00) spot=(-6.96, 1.52, 3.31) preview=3
+prof pos=(-0.94, 7.89, 3.25) waypoints=8
+  WP Point 1 parent=Ronde du prof pos=(3.75, 7.89, 6.42) classe=(1.66, 1.52, 5.17)
+  WP Point 2 parent=Ronde du prof pos=(3.75, 7.89, 3.56) classe=(0.70, 1.52, 2.31)
+  WP Point 3 parent=Ronde du prof pos=(-0.39, 7.89, 3.42) classe=(-3.65, 1.52, 2.16)
+  WP Point 4 parent=Ronde du prof pos=(-0.23, 7.89, 5.33) classe=(-3.49, 1.52, 4.07)
+  WP Point 5 parent=Ronde du prof pos=(-0.54, 7.89, 7.20) classe=(-3.80, 1.52, 6.27)
+  WP Point 6 parent=Ronde du prof pos=(-2.83, 7.89, 7.20) classe=(-6.09, 1.52, 7.19)
+  WP Point 7 parent=Ronde du prof pos=(1.71, 7.89, 7.20) classe=(-1.55, 1.52, 7.23)
+  WP Point 8 parent=Ronde du prof pos=(3.75, 7.89, 7.20) classe=(1.34, 1.52, 7.60)
+  enfant ronde Point 1 pos=(3.75, 7.89, 6.42) enfants=0
+  enfant ronde Point 2 pos=(3.75, 7.89, 3.56) enfants=0
+  enfant ronde Point 3 pos=(-0.39, 7.89, 3.42) enfants=0
+  enfant ronde Point 4 pos=(-0.23, 7.89, 5.33) enfants=0
+  enfant ronde Point 5 pos=(-0.54, 7.89, 7.20) enfants=0
+  enfant ronde Point 6 pos=(-2.83, 7.89, 7.20) enfants=0
+  enfant ronde Point 7 pos=(1.71, 7.89, 7.20) enfants=0
+  enfant ronde Point 8 pos=(3.75, 7.89, 7.20) enfants=0
+OBST Sac Jackpot min=(-6,88,2,26) max=(-6,26,2,88) h=0,56
+OBST Prof min=(-4,63,1,53) max=(-3,53,2,41) h=1,71
+OBST Chaise du jeu min=(-7,29,3,03) max=(-6,67,3,57) h=0,92
+OBST Untitled (1) min=(-6,61,2,76) max=(-5,98,3,99) h=0,76
+OBST dupli (20) min=(-1,33,0,59) max=(-0,14,1,81) h=0,84
+OBST dupli (25) min=(-1,33,2,73) max=(-0,14,3,96) h=0,84
+OBST dupli (31) min=(-3,00,2,73) max=(-1,66,3,96) h=0,84
+OBST dupli (33) min=(-5,65,2,73) max=(-4,45,3,96) h=0,84
+OBST dupli (26) min=(-1,33,4,95) max=(-0,14,6,18) h=0,84
+OBST dupli (27) min=(-2,82,4,95) max=(-1,62,6,18) h=0,84
+OBST dupli (29) min=(-5,63,4,95) max=(-4,44,6,18) h=0,84
+OBST dupli (30) min=(-6,88,4,95) max=(-2,29,6,18) h=0,84
+OBST dupli (21) min=(-2,77,0,59) max=(-1,58,1,81) h=0,98
+OBST dupli (22) min=(-4,24,0,59) max=(-3,04,1,81) h=0,84
+OBST dupli (23) min=(-5,69,0,59) max=(-4,49,1,81) h=0,84
+OBST dupli (24) min=(-7,07,0,59) max=(-5,88,1,81) h=0,84
+OBST Untitled min=(0,39,5,66) max=(1,60,6,87) h=1,10
+OBST Bureau du prof min=(-0,28,5,33) max=(0,96,7,02) h=1,08
+OBST Élève 1 (Eleve 1) min=(-5,67,5,03) max=(-4,74,6,10) h=1,50
+OBST Élève 2 (Eleve 5) min=(-6,48,0,20) max=(-4,58,2,15) h=1,52
+OBST Élève 3 (Eleve 6) min=(-7,31,0,70) max=(-5,72,1,70) h=1,52
+OBST Élève 4 (Eleve 7) min=(-3,05,5,16) max=(-1,87,5,86) h=1,61
+OBST Élève 5 (Sitting_éleve3) min=(-3,36,2,59) max=(-1,72,4,13) h=1,57
+OBST Armoire haute min=(-7,41,6,49) max=(-6,95,7,85) h=1,87
+OBST Armoire basse min=(-7,41,5,05) max=(-6,95,6,41) h=0,74
+OBST Bureau prof (.blend) min=(0,05,5,42) max=(0,63,6,93) h=0,71

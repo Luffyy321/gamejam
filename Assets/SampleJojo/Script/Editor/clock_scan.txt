@@ -1,0 +1,6 @@
+Digital_Clock parent=- rendu=False centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) rot=(0, 0, 0) sous-meshes=0 mats=
+Camera parent=Digital_Clock rendu=False centre=(5.892, 14.765, 37.816) taille=(0.000, 0.000, 0.000) rot=(20, 189, 0) sous-meshes=0 mats=
+Digit parent=Digital_Clock rendu=True centre=(14.000, 0.200, 0.000) taille=(1.700, 0.400, 2.600) rot=(270, 0, 0) sous-meshes=2 mats=Digit.Off,Digit.Zero
+Digital.Clock parent=Digital_Clock rendu=True centre=(0.000, 1.300, 0.200) taille=(11.300, 2.600, 0.400) rot=(0, 0, 0) sous-meshes=3 mats=Digit.Off,Digit.On,Digit.Zero
+Digital.Clock.Geometry.Node parent=Digital_Clock rendu=True centre=(10.000, 0.000, 0.000) taille=(1.624, 0.000, 2.600) rot=(270, 0, 0) sous-meshes=1 mats=Digital.Clock.Geometry.Node
+Dots parent=Digital_Clock rendu=True centre=(12.000, 0.200, 0.000) taille=(0.550, 0.400, 2.600) rot=(270, 0, 0) sous-meshes=2 mats=Digit.Off,Digit.Zero

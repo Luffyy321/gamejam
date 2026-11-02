@@ -1,0 +1,138 @@
+MODELE Assets/SampleJojo/model/eleve/Eleve 1.fbx type=Generic clips=[mixamo.com 2,97s] bornes=(-0.02, 0.73, 0.29) taille=(1.32, 1.94, 1.07) renderers=1
+MODELE Assets/SampleJojo/model/eleve/Eleve 5.fbx type=Generic clips=[mixamo.com 0,03s] bornes=(-0.03, 0.78, -0.18) taille=(2.24, 2.41, 2.23) renderers=1
+MODELE Assets/SampleJojo/model/eleve/Sitting_éleve3.fbx type=Generic clips=[mixamo.com 1,17s] bornes=(-0.01, 0.07, 0.00) taille=(0.22, 0.24, 0.22) renderers=2
+JOUEUR chaise (-6.96, 1.52, 3.31) avant (0.99, 0.00, 0.15)
+CHAISE DU JEU (-6.96, 1.52, 3.31) bornes (-6.98, 1.98, 3.30) (0.62, 0.92, 0.54)
+Archi_MMI/chaise.041 | pos (11.45, 11.03, 11.24) | bornes (11.45, 11.03, 11.14) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Tableau.001 | pos (9.90, 12.19, 7.96) | bornes (9.90, 12.19, 7.95) taille (3.83, 1.26, 0.01) | enfants 0
+Archi_MMI/chaise.084 | pos (-5.51, 8.30, 4.66) | bornes (-5.60, 8.29, 4.64) taille (0.53, 0.82, 0.46) | enfants 0
+Salle/Tableau | pos (1.88, 2.80, 5.65) | bornes (1.88, 2.80, 5.65) taille (0.13, 1.26, 2.10) | enfants 1
+Archi_MMI/chaise.040 | pos (10.59, 11.03, 11.24) | bornes (10.59, 11.03, 11.14) taille (0.36, 0.82, 0.46) | enfants 0
+Interactables | pos (0.00, 0.00, 0.00) | bornes (0.00, 0.00, 0.00) taille (0.00, 0.00, 0.00) | enfants 0
+Bureau du prof | pos (1.79, 0.13, 2.30) | bornes (0.29, 2.40, 6.20) taille (0.44, 0.41, 1.35) | enfants 4
+Archi_MMI/Table.017 | pos (6.59, 11.05, 9.96) | bornes (6.59, 10.98, 9.94) taille (0.75, 0.71, 1.40) | enfants 0
+Desk/dupli (20)/Chaise du jeu (1) | pos (-1.05, 1.51, 1.17) | bornes (-1.06, 1.94, 1.16) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/TableauContour.004 | pos (-9.94, 12.05, -3.11) | bornes (-9.93, 12.05, -3.11) taille (0.01, 1.29, 3.86) | enfants 0
+Archi_MMI/Tableau.004 | pos (-9.93, 12.05, -3.11) | bornes (-9.93, 12.05, -3.11) taille (0.01, 1.26, 3.83) | enfants 0
+Archi_MMI/chaise.080 | pos (13.16, 11.03, 9.65) | bornes (13.07, 11.02, 9.64) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Chaise verte 7108 | pos (-10.44, 11.25, -5.22) | bornes (-10.44, 11.15, -5.29) taille (0.49, 0.96, 0.52) | enfants 0
+Archi_MMI/chaise.046 | pos (6.16, 11.03, 12.49) | bornes (6.26, 11.03, 12.49) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Table étage ¤\^^/¤.001 | pos (-11.39, 10.71, -5.35) | bornes (-12.04, 11.03, -5.67) taille (1.39, 0.71, 0.66) | enfants 0
+Archi_MMI/Bas chaise 4 bleu | pos (6.72, 8.28, 1.48) | bornes (7.37, 8.11, 2.21) taille (2.74, 0.45, 2.49) | enfants 0
+Archi_MMI/Table etage | pos (-14.18, 10.70, -5.34) | bornes (-14.47, 11.03, -5.66) taille (0.64, 0.71, 0.67) | enfants 0
+Archi_MMI/chaise.052 | pos (-13.73, 11.08, -5.19) | bornes (-13.73, 11.08, -5.28) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Table etage.004 | pos (-15.03, 10.70, -3.10) | bornes (-15.35, 11.03, -2.81) taille (0.67, 0.71, 0.64) | enfants 0
+Archi_MMI/chaise.048 | pos (6.16, 11.03, 13.87) | bornes (6.26, 11.03, 13.87) taille (0.46, 0.82, 0.36) | enfants 0
+Salle/Horloges/Horloge (tableau) | pos (1.93, 3.05, 3.91) | bornes (1.93, 3.05, 3.91) taille (0.02, 0.21, 0.90) | enfants 1
+Archi_MMI/Table etage.009 | pos (-11.80, 10.70, -1.11) | bornes (-11.51, 11.03, -0.79) taille (0.64, 0.71, 0.67) | enfants 0
+Archi_MMI/chaise.060 | pos (-12.35, 11.04, -5.45) | bornes (-12.31, 11.09, -5.32) taille (0.39, 0.83, 0.52) | enfants 0
+Archi_MMI/Table.024 | pos (8.99, 11.05, 12.09) | bornes (8.96, 10.98, 12.09) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.075 | pos (13.16, 11.03, 12.91) | bornes (13.07, 11.02, 12.90) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Tableau.003 | pos (1.95, 2.80, 5.65) | bornes (1.96, 2.80, 5.65) taille (0.01, 1.26, 3.83) | enfants 0
+Archi_MMI/Tableau | pos (-9.11, 9.03, 4.99) | bornes (-9.10, 9.03, 4.99) taille (0.01, 1.26, 3.83) | enfants 0
+Archi_MMI/Chaise verte 7108.002 | pos (-14.86, 11.25, -2.18) | bornes (-14.94, 11.15, -2.18) taille (0.52, 0.96, 0.49) | enfants 0
+Archi_MMI/chaise.064 | pos (-11.78, 11.04, -5.45) | bornes (-11.74, 11.09, -5.32) taille (0.39, 0.83, 0.52) | enfants 0
+Archi_MMI/Table etage.005 | pos (-15.03, 10.70, -2.46) | bornes (-15.35, 11.03, -2.17) taille (0.67, 0.71, 0.64) | enfants 0
+Archi_MMI/chaise.087 | pos (-6.05, 8.30, 2.03) | bornes (-6.13, 8.29, 2.09) taille (0.58, 0.82, 0.57) | enfants 0
+Archi_MMI/chaise.033 | pos (8.70, 11.03, 12.46) | bornes (8.70, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.031 | pos (11.45, 11.03, 13.72) | bornes (11.45, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Table.029 | pos (11.75, 11.05, 12.09) | bornes (11.72, 10.98, 12.09) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.079 | pos (13.16, 11.03, 10.16) | bornes (13.07, 11.02, 10.15) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/chaise.083 | pos (-6.05, 8.30, 6.20) | bornes (-6.12, 8.29, 6.14) taille (0.58, 0.82, 0.57) | enfants 0
+Archi_MMI/chaise.032 | pos (11.96, 11.03, 13.72) | bornes (11.96, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Desk/dupli (23)/Chaise du jeu (1) | pos (-5.40, 1.51, 1.17) | bornes (-5.42, 1.94, 1.16) taille (0.54, 0.85, 0.45) | enfants 3
+Desk/dupli (25)/Chaise du jeu (1) | pos (-1.05, 1.51, 3.31) | bornes (-1.06, 1.94, 3.31) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/Table.012 | pos (6.59, 11.05, 14.10) | bornes (6.59, 10.98, 14.08) taille (0.75, 0.71, 1.40) | enfants 0
+Archi_MMI/Table.021 | pos (8.99, 11.05, 13.29) | bornes (8.96, 10.98, 13.29) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.076 | pos (13.16, 11.03, 12.40) | bornes (13.07, 11.02, 12.39) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/chaise.035 | pos (10.08, 11.03, 12.46) | bornes (10.08, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Table étage ¤\^^/¤.002 | pos (-12.79, 10.71, -5.35) | bornes (-13.44, 11.03, -5.67) taille (1.39, 0.71, 0.66) | enfants 0
+Archi_MMI/chaise.045 | pos (6.16, 11.03, 11.63) | bornes (6.26, 11.03, 11.63) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Table.022 | pos (10.37, 11.05, 13.29) | bornes (10.34, 10.98, 13.29) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/Table étage ¤\^^/¤.004 | pos (-15.04, 10.71, -4.49) | bornes (-15.35, 11.03, -3.84) taille (0.66, 0.71, 1.39) | enfants 0
+Archi_MMI/chaise.081 | pos (-7.98, 8.30, 4.71) | bornes (-7.89, 8.29, 4.69) taille (0.53, 0.82, 0.46) | enfants 0
+Archi_MMI/Table | pos (-6.68, 9.13, 4.07) | bornes (-6.68, 8.27, 4.07) taille (2.56, 0.72, 4.92) | enfants 0
+Props bureau | pos (-1.12, -0.38, 0.47) | bornes (-6.17, 2.33, 3.45) taille (0.26, 0.11, 0.94) | enfants 3
+Salle/Bureau prof (.blend) | pos (0.34, 1.88, 6.18) | bornes (0.34, 1.88, 6.18) taille (0.58, 0.71, 1.50) | enfants 1
+Archi_MMI/chaise.077 | pos (13.16, 11.03, 11.53) | bornes (13.07, 11.02, 11.53) taille (0.46, 0.82, 0.36) | enfants 0
+Desk/dupli (24)/Chaise du jeu (1) | pos (-6.79, 1.51, 1.17) | bornes (-6.80, 1.94, 1.16) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/chaise.037 | pos (11.45, 11.03, 12.46) | bornes (11.45, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.043 | pos (6.16, 11.03, 9.67) | bornes (6.26, 11.03, 9.67) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Table.023 | pos (11.75, 11.05, 13.29) | bornes (11.72, 10.98, 13.29) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/TableauContour.003 | pos (1.95, 2.80, 5.65) | bornes (1.95, 2.80, 5.65) taille (0.01, 1.29, 3.86) | enfants 0
+Archi_MMI/Table etage.008 | pos (-12.45, 10.70, -1.11) | bornes (-12.16, 11.03, -0.79) taille (0.64, 0.71, 0.67) | enfants 0
+Archi_MMI/chaise.061 | pos (-12.24, 11.04, -5.45) | bornes (-12.31, 11.28, -5.30) taille (0.36, 0.42, 0.48) | enfants 0
+Archi_MMI/chaise.027 | pos (8.70, 11.03, 13.72) | bornes (8.70, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.062 | pos (-7.98, 8.30, 3.88) | bornes (-7.88, 8.29, 3.89) taille (0.47, 0.82, 0.38) | enfants 0
+Archi_MMI/Dos chaise 4 bleu | pos (7.86, 8.49, 3.10) | bornes (7.19, 8.48, 2.39) taille (1.99, 0.40, 1.99) | enfants 0
+Archi_MMI/chaise.051 | pos (-13.12, 11.08, -5.19) | bornes (-13.11, 11.08, -5.28) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Table etage.006 | pos (-15.03, 10.70, -1.82) | bornes (-15.35, 11.03, -1.53) taille (0.67, 0.71, 0.64) | enfants 0
+Archi_MMI/Table.014 | pos (12.73, 11.04, 12.68) | bornes (12.73, 10.97, 12.70) taille (0.75, 0.71, 1.40) | enfants 0
+Archi_MMI/Chaise verte 7108.004 | pos (-14.47, 11.25, -5.22) | bornes (-14.47, 11.15, -5.29) taille (0.49, 0.96, 0.52) | enfants 0
+Chaise du jeu | pos (-6.96, 1.52, 3.31) | bornes (-6.98, 1.98, 3.30) taille (0.62, 0.92, 0.54) | enfants 3
+Archi_MMI/Table.019 | pos (12.73, 11.04, 9.92) | bornes (12.73, 10.97, 9.94) taille (0.75, 0.71, 1.40) | enfants 0
+Archi_MMI/chaise.053 | pos (-15.17, 11.04, -4.18) | bornes (-15.04, 11.09, -4.11) taille (0.52, 0.83, 0.39) | enfants 0
+Archi_MMI/chaise.049 | pos (6.16, 11.03, 14.38) | bornes (6.26, 11.03, 14.38) taille (0.46, 0.82, 0.36) | enfants 0
+Objets achetés (table) | pos (-6.57, 2.29, 3.17) | bornes (-6.57, 2.29, 3.17) taille (0.00, 0.00, 0.00) | enfants 0
+Archi_MMI/chaise.056 | pos (-13.53, 11.08, -1.27) | bornes (-13.54, 11.08, -1.17) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Tableau.002 | pos (4.65, 2.80, 0.56) | bornes (4.65, 2.80, 0.55) taille (3.83, 1.26, 0.01) | enfants 0
+Archi_MMI/chaise.082 | pos (-7.36, 8.30, 6.13) | bornes (-7.28, 8.29, 6.07) taille (0.58, 0.82, 0.57) | enfants 0
+Desk/dupli (22)/Chaise du jeu (1) | pos (-3.95, 1.51, 1.17) | bornes (-3.97, 1.94, 1.16) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/chaise.055 | pos (-14.17, 11.08, -1.27) | bornes (-14.17, 11.08, -1.17) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.078 | pos (13.16, 11.03, 11.02) | bornes (13.07, 11.02, 11.02) taille (0.46, 0.82, 0.36) | enfants 0
+Salle/Murs/Mur tableau (1) | pos (0.00, 0.00, 0.00) | bornes (1.95, 2.51, 1.25) taille (0.00, 1.97, 1.41) | enfants 0
+Archi_MMI/Table.027 | pos (11.75, 11.04, 15.10) | bornes (11.72, 10.97, 15.10) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.038 | pos (11.96, 11.03, 12.46) | bornes (11.96, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.057 | pos (-12.19, 11.08, -1.27) | bornes (-12.20, 11.08, -1.17) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.034 | pos (9.21, 11.03, 12.46) | bornes (9.21, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.047 | pos (6.16, 11.03, 13.00) | bornes (6.26, 11.03, 13.00) taille (0.46, 0.82, 0.36) | enfants 0
+Départ partie (chaise) | pos (-6.96, 1.52, 3.31) | bornes (-6.96, 1.52, 3.31) taille (0.00, 0.00, 0.00) | enfants 0
+Archi_MMI/Table.025 | pos (8.99, 11.04, 15.10) | bornes (8.96, 10.97, 15.10) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.085 | pos (-5.42, 8.30, 3.98) | bornes (-5.52, 8.29, 3.98) taille (0.46, 0.82, 0.36) | enfants 0
+Desk/dupli (33)/Chaise du jeu (1) | pos (-5.36, 1.51, 3.31) | bornes (-5.38, 1.94, 3.31) taille (0.54, 0.85, 0.45) | enfants 3
+Desk/dupli (29)/Chaise du jeu (1) | pos (-5.35, 1.51, 5.53) | bornes (-5.36, 1.94, 5.53) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/Table etage.001 | pos (-15.03, 10.70, -5.15) | bornes (-15.35, 11.03, -4.86) taille (0.67, 0.71, 0.64) | enfants 0
+Archi_MMI/chaise.086 | pos (-5.46, 8.30, 3.16) | bornes (-5.55, 8.29, 3.18) taille (0.54, 0.82, 0.47) | enfants 0
+Archi_MMI/chaise.030 | pos (10.59, 11.03, 13.72) | bornes (10.59, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.088 | pos (-7.36, 8.30, 1.95) | bornes (-7.28, 8.29, 2.02) taille (0.58, 0.82, 0.57) | enfants 0
+Archi_MMI/chaise.065 | pos (-15.17, 11.04, -4.92) | bornes (-15.04, 11.09, -4.85) taille (0.52, 0.83, 0.39) | enfants 0
+Desk/dupli (27)/Chaise du jeu (1) | pos (-2.53, 1.51, 5.53) | bornes (-2.55, 1.94, 5.53) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/chaise.069 | pos (-12.84, 11.04, -1.01) | bornes (-12.88, 11.09, -1.14) taille (0.39, 0.83, 0.52) | enfants 0
+Archi_MMI/Table étage ¤\^^/¤.003 | pos (-13.83, 10.71, -1.11) | bornes (-13.18, 11.03, -0.79) taille (1.39, 0.71, 0.66) | enfants 0
+Archi_MMI/Table.028 | pos (10.37, 11.05, 12.09) | bornes (10.34, 10.98, 12.09) taille (1.40, 0.71, 0.75) | enfants 0
+Décor classe/Sur le bureau du prof | pos (0.00, 0.00, 0.00) | bornes (0.29, 2.42, 5.94) taille (0.46, 0.38, 1.02) | enfants 5
+Archi_MMI/chaise.058 | pos (-7.86, 8.30, 3.21) | bornes (-7.77, 8.29, 3.24) taille (0.54, 0.82, 0.48) | enfants 0
+Archi_MMI/chaise.039 | pos (10.08, 11.03, 11.24) | bornes (10.08, 11.03, 11.14) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Chaise verte 7108.005 | pos (-11.50, 11.25, -1.26) | bornes (-11.50, 11.15, -1.18) taille (0.49, 0.96, 0.52) | enfants 0
+Archi_MMI/chaise.029 | pos (10.08, 11.03, 13.72) | bornes (10.08, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Desk/dupli (31)/Chaise du jeu (1) | pos (-2.56, 1.51, 3.31) | bornes (-2.58, 1.94, 3.31) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/chaise.059 | pos (-10.98, 11.08, -5.19) | bornes (-10.98, 11.08, -5.28) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/chaise.018 | pos (6.16, 11.03, 10.18) | bornes (6.26, 11.03, 10.18) taille (0.46, 0.82, 0.36) | enfants 0
+Desk/dupli (26)/Chaise du jeu (1) | pos (-1.05, 1.51, 5.53) | bornes (-1.06, 1.94, 5.53) taille (0.54, 0.85, 0.45) | enfants 3
+Desk/dupli (30)/Chaise du jeu (1) | pos (-6.60, 1.51, 5.53) | bornes (-6.61, 1.94, 5.52) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/Chaise verte 7108.001 | pos (-14.86, 11.25, -2.82) | bornes (-14.94, 11.15, -2.82) taille (0.52, 0.96, 0.49) | enfants 0
+Archi_MMI/Table.031 | pos (11.75, 11.05, 10.86) | bornes (11.72, 10.98, 10.86) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/Table.020 | pos (7.61, 11.04, 15.10) | bornes (7.58, 10.97, 15.10) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.063 | pos (-11.67, 11.04, -5.45) | bornes (-11.74, 11.28, -5.30) taille (0.36, 0.42, 0.48) | enfants 0
+Archi_MMI/chaise.050 | pos (13.16, 11.03, 14.36) | bornes (13.07, 11.02, 14.35) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/Chaise verte 7108.003 | pos (-14.86, 11.25, -1.53) | bornes (-14.94, 11.15, -1.53) taille (0.52, 0.96, 0.49) | enfants 0
+Archi_MMI/chaise.044 | pos (6.16, 11.03, 11.12) | bornes (6.26, 11.03, 11.12) taille (0.46, 0.82, 0.36) | enfants 0
+Archi_MMI/TableauContour.002 | pos (4.65, 2.80, 0.56) | bornes (4.65, 2.80, 0.55) taille (3.86, 1.29, 0.01) | enfants 0
+Archi_MMI/Table.010 | pos (6.59, 11.05, 11.34) | bornes (6.59, 10.98, 11.32) taille (0.75, 0.71, 1.40) | enfants 0
+Archi_MMI/Table.030 | pos (10.37, 11.05, 10.86) | bornes (10.34, 10.98, 10.86) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/chaise.074 | pos (13.16, 11.03, 13.85) | bornes (13.07, 11.02, 13.84) taille (0.46, 0.82, 0.36) | enfants 0
+Salle/Murs/Mur tableau (2) | pos (0.00, 0.00, 0.00) | bornes (1.95, 2.51, 5.65) taille (0.00, 1.97, 4.71) | enfants 0
+Archi_MMI/Table.013 | pos (12.73, 11.04, 14.06) | bornes (12.73, 10.97, 14.08) taille (0.75, 0.71, 1.40) | enfants 0
+Archi_MMI/chaise.042 | pos (11.96, 11.03, 11.24) | bornes (11.96, 11.03, 11.14) taille (0.36, 0.82, 0.46) | enfants 0
+Desk | pos (-2.76, 1.52, 6.52) | bornes (-3.61, 2.01, 3.38) taille (6.93, 0.99, 5.59) | enfants 12
+Archi_MMI/chaise.036 | pos (10.59, 11.03, 12.46) | bornes (10.59, 11.03, 12.37) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/TableauContour | pos (-9.11, 9.03, 4.99) | bornes (-9.10, 9.03, 4.99) taille (0.01, 1.29, 3.86) | enfants 0
+Archi_MMI/chaise.054 | pos (-15.17, 11.04, -3.64) | bornes (-15.04, 11.09, -3.57) taille (0.52, 0.83, 0.39) | enfants 0
+Archi_MMI/Table étage ¤\^^/¤ | pos (-9.99, 10.71, -5.35) | bornes (-10.64, 11.03, -5.67) taille (1.39, 0.71, 0.66) | enfants 0
+Archi_MMI/chaise.028 | pos (9.21, 11.03, 13.72) | bornes (9.21, 11.03, 13.63) taille (0.36, 0.82, 0.46) | enfants 0
+Archi_MMI/Table.026 | pos (10.37, 11.04, 15.10) | bornes (10.34, 10.97, 15.10) taille (1.40, 0.71, 0.75) | enfants 0
+Archi_MMI/Table.018 | pos (12.73, 11.04, 11.30) | bornes (12.73, 10.97, 11.32) taille (0.75, 0.71, 1.40) | enfants 0
+Desk/dupli (21)/Chaise du jeu (1) | pos (-2.48, 1.51, 1.17) | bornes (-2.50, 1.94, 1.16) taille (0.54, 0.85, 0.45) | enfants 3
+Archi_MMI/TableauContour.001 | pos (9.90, 12.19, 7.96) | bornes (9.90, 12.19, 7.96) taille (3.86, 1.29, 0.01) | enfants 0
+Archi_MMI/Table etage.007 | pos (-14.48, 10.70, -1.11) | bornes (-14.19, 11.03, -0.79) taille (0.64, 0.71, 0.67) | enfants 0
+Archi_MMI/Table.011 | pos (6.59, 11.05, 12.72) | bornes (6.59, 10.98, 12.70) taille (0.75, 0.71, 1.40) | enfants 0

@@ -1,0 +1,11 @@
+Affiche alphabet sur « Mur côté couloir » min (-5.40, 2.15, 0.56) max (-4.60, 3.00, 0.66) rends 1
+Affiche katakana sur « Mur fenêtres (1) » min (-6.57, 2.17, 7.98) max (-5.93, 3.17, 7.99) rends 1
+Affiche colombe sur « Mur fenêtres (1) » min (-4.26, 2.27, 7.99) max (-3.74, 2.97, 7.99) rends 1
+Calendrier sur « Mur tableau (1) » min (1.94, 2.35, 1.01) max (1.95, 2.90, 1.39) rends 1
+bureau utilisé : Bureau prof (.blend)
+plateau x 0,05→0,53 z 5,42→6,92 y 2,23
+Ordinateur x 0,15→0,52 y 2,23→2,61 z 6,16→6,44
+Copies x 0,08→0,32 y 2,23→2,25 z 5,87→6,11
+Mug x 0,06→0,20 y 2,23→2,33 z 5,43→5,57
+Agrafeuse x 0,09→0,17 y 2,23→2,32 z 6,26→6,41
+Lunettes x 0,16→0,26 y 2,25→2,29 z 5,93→6,07

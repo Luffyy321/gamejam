@@ -1,0 +1,110 @@
+== Affiche_ABC/Affiche_ABC.fbx taille=(1.273, 1.360, 0.160) centre-pos=(0.000, -0.020, 0.080) tris=10 normale=(0.00, -0.09, 1.00) (3,4072)
+   school_posters_alphabet.mo [MeshRenderer] taille=(1.273, 1.360, 0.160) mats=school_posters_alphabet_inst/Universal Render Pipeline/Lit
+== Affiche_Calendrier/Affiche_Calendrier.fbx taille=(0.224, 0.332, 0.005) centre-pos=(0.000, 0.000, 0.000) tris=10 normale=(0.00, 0.00, 1.00) (0,1488)
+   Affiche_Calendrier [MeshRenderer] taille=(0.224, 0.332, 0.005) mats=lambert1/Universal Render Pipeline/Lit
+== Affiche_Colombe/Affiche_Colombe.fbx taille=(0.460, 0.610, 0.000) centre-pos=(0.000, 0.000, 0.000) tris=200 normale=(0.00, 0.00, 1.00) (0,5612)
+   Affiche_Colombe [MeshRenderer] taille=(0.460, 0.610, 0.000) mats=blinn1/Universal Render Pipeline/Lit
+== Affiche_Katakana/Affiche_Katakana.blend taille=(0.022, 1.365, 0.881) centre-pos=(-0.003, 0.000, 0.000) tris=28 normale=(0.00, 0.00, 0.00) (0,0000)
+   SM_poster_1 [MeshRenderer] taille=(0.022, 1.365, 0.881) mats=Material/Universal Render Pipeline/Lit
+== Agrafeuse/Agrafeuse.fbx taille=(0.279, 0.385, 0.638) centre-pos=(0.000, 0.193, -0.045) tris=0 normale=(0.00, 0.00, 0.00) (0,0000)
+   base [SkinnedMeshRenderer] taille=(0.275, 0.161, 0.636) mats=Plastic/Universal Render Pipeline/Lit
+   clip [SkinnedMeshRenderer] taille=(0.193, 0.006, 0.071) mats=Metal/Universal Render Pipeline/Lit
+   head [SkinnedMeshRenderer] taille=(0.279, 0.283, 0.632) mats=Plastic/Universal Render Pipeline/Lit
+   metal [SkinnedMeshRenderer] taille=(0.168, 0.140, 0.521) mats=Metal/Universal Render Pipeline/Lit
+   metalplate [SkinnedMeshRenderer] taille=(0.187, 0.168, 0.438) mats=Metal/Universal Render Pipeline/Lit
+   slider [SkinnedMeshRenderer] taille=(0.147, 0.082, 0.173) mats=Plastic/Universal Render Pipeline/Lit
+   spring [SkinnedMeshRenderer] taille=(0.022, 0.186, 0.144) mats=Spring/Universal Render Pipeline/Lit
+== Avion_papier/Avion_papier.fbx taille=(2.214, 0.451, 1.474) centre-pos=(-0.329, 0.024, 0.001) tris=28 normale=(0.00, 0.00, 0.00) (0,0000)
+   Avion_papier [MeshRenderer] taille=(2.214, 0.451, 1.474) mats=Material.001/Universal Render Pipeline/Lit
+== Extincteur/Extincteur.obj taille=(2.115, 3.777, 7.272) centre-pos=(0.000, -0.234, 3.634) tris=4464 normale=(0.21, -0.98, 0.00) (0,2317)
+   default [MeshRenderer] taille=(2.115, 3.777, 7.272) mats=defaultMat/Universal Render Pipeline/Lit
+== Lunettes/Lunettes.fbx taille=(0.158, 0.056, 0.087) centre-pos=(0.000, 0.023, -0.049) tris=3184 normale=(0.00, 0.00, 0.00) (0,0000)
+   oprava [MeshRenderer] taille=(0.159, 0.056, 0.087) mats=Material/Universal Render Pipeline/Lit
+   steklo [MeshRenderer] taille=(0.129, 0.049, 0.009) mats=Material.001/Universal Render Pipeline/Lit
+== Mug/Mug.fbx taille=(0.028, 0.029, 0.032) centre-pos=(-0.002, 0.000, 0.001) tris=1032 normale=(0.02, 1.00, -0.03) (0,0009)
+   Mug [MeshRenderer] taille=(0.028, 0.029, 0.032) mats=Mug/Universal Render Pipeline/Lit,Coffee/Universal Render Pipeline/Lit
+== Ordinateur/Ordinateur.fbx taille=(7.103, 7.386, 5.505) centre-pos=(-0.049, 2.693, 0.137) tris=5544 normale=(0.12, -0.99, 0.00) (41,5315)
+   Cube.001 [MeshRenderer] taille=(6.807, 2.000, 5.393) mats=Material.005/Universal Render Pipeline/Lit
+   RM Monitor Type 2 (CRT) [MeshRenderer] taille=(6.866, 5.529, 5.457) mats=Monitor White Plastic.001/Universal Render Pipeline/Lit,Screen Surface.001/Universal Render Pipeline/Lit
+== Papiers/Papiers.obj taille=(24.020, 1.894, 22.577) centre-pos=(0.371, 1.176, -0.031) tris=174 normale=(0.00, 1.00, 0.00) (4307,2310)
+   polySurface78 [MeshRenderer] taille=(24.020, 1.894, 22.577) mats=polySurface78Mat/Universal Render Pipeline/Lit
+== Poubelle/Poubelle.fbx taille=(0.369, 0.301, 0.358) centre-pos=(-0.007, 0.054, 0.006) tris=1070 normale=(-0.15, 0.62, -0.77) (0,0203)
+   Poubelle [MeshRenderer] taille=(0.369, 0.301, 0.358) mats=Lit/Universal Render Pipeline/Lit
+[bureau] cassa min=(0.07, 2.20, 6.52) max=(0.46, 2.61, 6.88)
+[bureau] pot-de-crayon min=(0.39, 2.23, 5.56) max=(0.51, 2.46, 5.66)
+[bureau] Bureau min=(-0.28, 1.50, 5.33) max=(0.96, 2.20, 7.02)
+[bureau] Ventilateur min=(0.17, 2.23, 5.52) max=(0.50, 2.57, 5.85)
+[obj] Prof pos=(-4.20, 1.52, 2.00)
+[obj] Chaise du jeu pos=(-6.96, 1.52, 3.31)
+[obj] Sac Jackpot pos=(-6.57, 1.50, 2.57)
+[obj] Jackpot pos=(-5.37, 2.73, 3.47)
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 1.30) touche=(-7.43, 2.40, 1.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 1.30) touche=(-7.43, 3.10, 1.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 2.80) touche=(-7.43, 2.40, 2.80) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 2.80) touche=(-7.43, 3.10, 2.80) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 4.30) touche=(-7.43, 2.40, 4.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 4.30) touche=(-7.43, 3.10, 4.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 5.80) touche=(-7.43, 2.40, 5.80) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 5.80) touche=(-7.43, 3.10, 5.80) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 7.30) touche=(-7.43, 2.40, 7.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(-1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 7.30) touche=(-7.43, 3.10, 7.30) n=(1.00, 0.00, 0.00) Mur fond
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 7.30) touche=(1.95, 2.40, 7.30) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 7.30) touche=(1.95, 3.10, 7.30) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 5.80) touche=(1.95, 2.40, 5.80) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 5.80) touche=(1.95, 3.10, 5.80) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 4.30) touche=(1.95, 2.40, 4.30) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 4.30) touche=(1.95, 3.10, 4.30) n=(-1.00, 0.00, 0.00) Mur tableau (2)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 2.80) rien
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 2.80) rien
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 2.40, 1.30) touche=(1.95, 2.40, 1.30) n=(-1.00, 0.00, 0.00) Mur tableau (1)
+[mur] dir=(1.00, 0.00, 0.00) depuis=(-3.00, 3.10, 1.30) touche=(1.95, 3.10, 1.30) n=(-1.00, 0.00, 0.00) Mur tableau (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-6.00, 2.40, 4.30) touche=(-6.00, 2.40, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-6.00, 3.10, 4.30) touche=(-6.00, 3.10, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-4.50, 2.40, 4.30) touche=(-4.50, 2.40, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-4.50, 3.10, 4.30) touche=(-4.50, 3.10, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-3.00, 2.40, 4.30) touche=(-3.00, 2.40, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-3.00, 3.10, 4.30) touche=(-3.00, 3.10, 8.00) n=(0.00, 0.00, -1.00) Mur fenêtres (1)
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-1.50, 2.40, 4.30) touche=(-1.50, 2.40, 7.91) n=(0.00, 0.00, -1.00) Fenêtre
+[mur] dir=(0.00, 0.00, 1.00) depuis=(-1.50, 3.10, 4.30) touche=(-1.50, 3.10, 7.91) n=(0.00, 0.00, -1.00) Fenêtre
+[mur] dir=(0.00, 0.00, 1.00) depuis=(0.00, 2.40, 4.30) touche=(0.00, 2.40, 7.92) n=(0.00, 0.00, -1.00) Fenêtre
+[mur] dir=(0.00, 0.00, 1.00) depuis=(0.00, 3.10, 4.30) touche=(0.00, 3.10, 7.92) n=(0.00, 0.00, -1.00) Fenêtre
+[mur] dir=(0.00, 0.00, -1.00) depuis=(0.00, 2.40, 4.30) touche=(0.00, 2.40, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(0.00, 3.10, 4.30) touche=(0.00, 3.10, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-1.50, 2.40, 4.30) touche=(-1.50, 2.40, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-1.50, 3.10, 4.30) touche=(-1.50, 3.10, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-3.00, 2.40, 4.30) touche=(-3.00, 2.40, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-3.00, 3.10, 4.30) touche=(-3.00, 3.10, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-4.50, 2.40, 4.30) touche=(-4.50, 2.40, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-4.50, 3.10, 4.30) touche=(-4.50, 3.10, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-6.00, 2.40, 4.30) touche=(-6.00, 2.40, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[mur] dir=(0.00, 0.00, -1.00) depuis=(-6.00, 3.10, 4.30) touche=(-6.00, 3.10, 0.55) n=(0.00, 0.00, 1.00) Mur côté couloir
+[sol] (-7,0,1,0) y=1,52 Cube.046
+[sol] (-7,0,2,6) y=1,52 Cube.046
+[sol] (-7,0,4,2) y=1,52 Cube.046
+[sol] (-7,0,5,8) y=1,52 Cube.046
+[sol] (-7,0,7,4) y=1,52 Cube.046
+[sol] (-5,5,1,0) y=1,52 Cube.046
+[sol] (-5,5,2,6) y=1,52 Cube.046
+[sol] (-5,5,4,2) y=1,52 Cube.046
+[sol] (-5,5,5,8) y=1,52 Cube.046
+[sol] (-5,5,7,4) y=1,52 Cube.046
+[sol] (-4,0,1,0) y=1,52 Cube.046
+[sol] (-4,0,2,6) y=1,52 Cube.046
+[sol] (-4,0,4,2) y=1,52 Cube.046
+[sol] (-4,0,5,8) y=1,52 Cube.046
+[sol] (-4,0,7,4) y=1,52 Cube.046
+[sol] (-2,5,1,0) y=1,52 Cube.046
+[sol] (-2,5,2,6) y=1,52 Cube.046
+[sol] (-2,5,4,2) y=1,52 Cube.046
+[sol] (-2,5,5,8) y=1,52 Cube.046
+[sol] (-2,5,7,4) y=1,52 Cube.046
+[sol] (-1,0,1,0) y=1,52 Cube.046
+[sol] (-1,0,2,6) y=1,52 Cube.046
+[sol] (-1,0,4,2) y=1,52 Cube.046
+[sol] (-1,0,5,8) y=1,52 Cube.046
+[sol] (-1,0,7,4) y=1,52 Cube.046
+[sol] (0,5,1,0) y=1,52 Cube.046
+[sol] (0,5,2,6) y=1,52 Cube.046
+[sol] (0,5,4,2) y=1,52 Cube.046
+[sol] (0,5,5,8) y=2,23 Bureau prof (.blend)
+[sol] (0,5,7,4) y=1,52 Cube.046

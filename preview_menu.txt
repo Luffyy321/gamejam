@@ -1,0 +1,68 @@
+=== Assets/SampleJojo/model/menu/Carnet/Carnet.blend
+  Carnet lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  SM_notebook_papers.105 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.002, -0.006, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.106 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.001, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.107 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.001, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.108 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.001, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.109 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, 0.000, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.110 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, 0.000, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.111 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.001, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.112 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.002, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.113 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.002, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.114 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.002, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.115 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.002, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.116 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.002, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.117 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.002, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.118 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.003, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.119 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.002, -0.003, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.120 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.004, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.121 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.003, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.122 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.002, -0.003, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.123 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.004, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.124 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.004, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.125 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.004, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.126 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.004, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.127 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.004, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.128 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.004, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.129 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.005, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.130 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.004, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.131 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.002, -0.005, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.132 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.002, -0.005, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.133 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.006, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.134 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.005, -0.005, 0.105) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.135 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.005, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.136 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.004, -0.006, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.137 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.006, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.138 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.005, 0.107) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_notebook_papers.139 lrot=(270, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.006, 0.106) taille=(0.297, 0.000, 0.210) verts=4 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+  SM_spirals_main.003 lrot=(0, 270, 270) lsc=(1.00, 1.00, 1.00) centre=(-0.003, -0.002, 0.002) taille=(0.291, 0.017, 0.017) verts=16796 mats=M_notebook_closed_clean.001{ RGBA(0.91, 0.91, 0.91, 1.00)}
+=== Assets/SampleJojo/model/menu/Icones/ui_icon_set_1.fbx
+  ui_icon_set_1 lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  01 lrot=(270, 0, 0) lsc=(1.00, 1.98, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  Object070 lrot=(0, 0, 0) lsc=(1.00, 1.00, 1.00) centre=(0.000, 0.000, 0.000) taille=(0.000, 0.000, 0.000) verts=0 mats=
+  Object074 lrot=(270, 0, 0) lsc=(1.00, 1.98, 1.00) centre=(0.308, 1.653, 0.000) taille=(0.194, 0.194, 0.043) verts=894 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object075 lrot=(270, 0, 0) lsc=(1.00, 1.98, 1.00) centre=(0.936, 1.652, 0.000) taille=(0.190, 0.190, 0.043) verts=1074 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object076 lrot=(270, 0, 0) lsc=(0.98, 1.94, 0.98) centre=(-0.983, 1.001, 0.000) taille=(0.247, 0.238, 0.043) verts=1486 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object077 lrot=(270, 0, 0) lsc=(0.87, 1.72, 0.87) centre=(-0.351, 0.992, 0.000) taille=(0.240, 0.239, 0.038) verts=3291 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object078 lrot=(270, 0, 0) lsc=(0.95, 1.89, 0.95) centre=(0.310, 1.002, 0.000) taille=(0.176, 0.193, 0.041) verts=1188 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object079 lrot=(270, 0, 0) lsc=(0.89, 1.75, 0.89) centre=(0.941, 0.985, 0.000) taille=(0.240, 0.185, 0.039) verts=1646 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object080 lrot=(270, 0, 0) lsc=(0.82, 1.62, 0.82) centre=(-0.985, 0.370, 0.000) taille=(0.165, 0.228, 0.036) verts=1528 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object081 lrot=(270, 0, 0) lsc=(0.78, 1.55, 0.78) centre=(-0.350, 0.364, 0.000) taille=(0.216, 0.158, 0.034) verts=1542 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object082 lrot=(270, 0, 0) lsc=(0.84, 1.66, 0.84) centre=(0.297, 0.363, 0.000) taille=(0.214, 0.224, 0.036) verts=2580 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object083 lrot=(270, 0, 0) lsc=(0.91, 1.81, 0.91) centre=(0.937, 0.362, 0.000) taille=(0.248, 0.249, 0.040) verts=3264 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object084 lrot=(270, 0, 0) lsc=(0.79, 1.57, 0.79) centre=(-0.981, -0.293, 0.000) taille=(0.183, 0.173, 0.034) verts=3204 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object085 lrot=(270, 0, 0) lsc=(0.91, 1.81, 0.91) centre=(-0.355, -0.290, 0.000) taille=(0.218, 0.136, 0.040) verts=1242 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object086 lrot=(270, 0, 0) lsc=(0.91, 1.81, 0.91) centre=(0.316, -0.290, 0.000) taille=(0.218, 0.136, 0.040) verts=1242 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object087 lrot=(270, 0, 0) lsc=(0.90, 1.78, 0.90) centre=(0.935, -0.299, 0.000) taille=(0.252, 0.267, 0.039) verts=1713 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object088 lrot=(270, 0, 0) lsc=(0.81, 1.61, 0.81) centre=(-0.960, -1.008, 0.000) taille=(0.234, 0.188, 0.035) verts=2664 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object089 lrot=(270, 0, 0) lsc=(0.83, 1.65, 0.83) centre=(-0.992, -1.628, 0.000) taille=(0.202, 0.190, 0.036) verts=2014 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object090 lrot=(270, 0, 0) lsc=(0.87, 1.72, 0.87) centre=(-0.346, -1.644, 0.000) taille=(0.232, 0.138, 0.038) verts=866 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object091 lrot=(270, 0, 0) lsc=(0.89, 1.76, 0.89) centre=(-0.348, -0.976, 0.000) taille=(0.219, 0.252, 0.039) verts=2376 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object092 lrot=(270, 0, 0) lsc=(0.75, 1.49, 0.75) centre=(0.315, -0.989, 0.000) taille=(0.241, 0.194, 0.033) verts=2375 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object093 lrot=(270, 0, 0) lsc=(0.97, 1.93, 0.97) centre=(0.307, -1.644, 0.000) taille=(0.144, 0.224, 0.042) verts=1692 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object094 lrot=(270, 0, 0) lsc=(0.88, 1.75, 0.88) centre=(0.937, -1.641, 0.000) taille=(0.187, 0.199, 0.038) verts=570 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object095 lrot=(270, 0, 0) lsc=(0.89, 1.76, 0.89) centre=(0.935, -0.993, 0.000) taille=(0.220, 0.230, 0.039) verts=1996 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object097 lrot=(270, 0, 0) lsc=(0.87, 1.73, 0.87) centre=(-0.982, 1.649, 0.002) taille=(0.208, 0.209, 0.038) verts=1510 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Object098 lrot=(270, 0, 0) lsc=(0.90, 1.79, 0.90) centre=(-0.354, 1.653, -0.001) taille=(0.175, 0.183, 0.039) verts=758 mats=01 - Defaultfs{ RGBA(0.71, 0.00, 0.00, 1.00)}
+  Rectangle017 lrot=(0, 0, 0) lsc=(0.07, 0.07, 0.07) centre=(-0.023, 0.005, -0.086) taille=(2.222, 3.598, 0.001) verts=6720 mats=01 - Defaultfsfs{ RGBA(0.79, 0.79, 0.79, 1.00)}
+  Text005 lrot=(0, 0, 0) lsc=(0.47, 0.47, 0.47) centre=(-0.030, 2.081, 0.000) taille=(0.665, 0.086, 0.000) verts=2582 mats=01 - Defaultd{ RGBA(1.00, 1.00, 1.00, 1.00)}

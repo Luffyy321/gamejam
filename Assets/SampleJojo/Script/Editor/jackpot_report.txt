@@ -1,0 +1,128 @@
+== Racines de la scène ==
+[Debug Updater] pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+Interactables pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+Teleport Area Setup pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+XRInteractionManager pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+UI pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+EventSystem pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+XR Origin Hands (XR Rig) pos=(-5.360, 1.549, 5.786) rot=(0.0, 180.1, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=8
+Archi_MMI pos=(-0.370, 6.618, -0.450) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=1613
+Jackpot pos=(-6.064, 1.747, 3.280) rot=(0.0, 0.2, 0.0) scale=(0.0027, 0.0027, 0.0027) enfants=22
+Sac Jackpot pos=(-6.064, 1.524, 3.281) rot=(0.0, 0.2, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=1
+Lighting pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+Gaze Snap Volume pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+Emplacements Jackpot pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=1
+Hands Permissions Manager pos=(0.000, 0.000, 0.000) rot=(0.0, 0.0, 0.0) scale=(1.0000, 1.0000, 1.0000) enfants=0
+== Composants (Play=True) ==
+[Teleport Area Setup] actif=True
+   UnityEngine.Transform
+[Jackpot] actif=True
+   UnityEngine.Transform
+   UnityEngine.MeshFilter
+   UnityEngine.MeshRenderer
+   UnityEngine.AudioSource enabled=True
+   UnityEngine.AudioSource enabled=True
+   JackpotFX enabled=False
+   UnityEngine.MeshCollider enabled=False trigger=False convex=False mesh=Jackpot
+   UnityEngine.BoxCollider enabled=False trigger=False
+   UnityEngine.Rigidbody kinematic=True gravity=True
+   UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable enabled=True
+   JackpotItem enabled=True
+   UnityEngine.XR.Interaction.Toolkit.Transformers.XRGeneralGrabTransformer enabled=True
+== Objets XR / joueur ==
+XR Origin Hands (XR Rig)/Camera Offset/Left Controller Teleport Stabilized Origin pos=(-5.360, 2.910, 5.779)
+Teleport Area Setup pos=(0.000, 0.000, 0.000)
+XR Origin Hands (XR Rig)/Locomotion/Climb/Climb Teleport pos=(-5.360, 1.549, 5.786)
+XR Origin Hands (XR Rig)/Locomotion/Climb/Climb Teleport/[Climb Teleport] Attach pos=(-5.360, 1.549, 5.786)
+XR Origin Hands (XR Rig)/Locomotion/Teleportation pos=(-5.360, 1.549, 5.786)
+XR Origin Hands (XR Rig)/Camera Offset pos=(-5.360, 2.910, 5.786)
+XR Origin Hands (XR Rig) pos=(-5.360, 1.549, 5.786)
+XR Origin Hands (XR Rig)/Camera Offset/Main Camera pos=(-5.360, 2.910, 5.786)
+XR Origin Hands (XR Rig)/Camera Offset/Right Controller/Teleport Interactor pos=(-5.360, 2.890, 5.821)
+XR Origin Hands (XR Rig)/Camera Offset/Left Controller/Teleport Interactor pos=(-5.360, 2.890, 5.821)
+XR Origin Hands (XR Rig)/Camera Offset/Right Controller Teleport Stabilized Origin pos=(-5.360, 2.910, 5.779)
+== Objets dont le nom ressemble à une table ==
+Archi_MMI/Table étage ¤\^^/¤.003 | centre=(-13.178, 11.028, -0.793) taille=(1.386, 0.712, 0.655) haut=11,383 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table etage.007 | centre=(-14.192, 11.027, -0.787) taille=(0.642, 0.711, 0.667) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Tableau.003 | centre=(1.955, 2.802, 5.647) taille=(0.011, 1.261, 3.826) haut=3,432 collider=False mats=WhiteBoard.002,Don't touch the cube,
+Archi_MMI/Table etage.004 | centre=(-15.351, 11.027, -2.814) taille=(0.667, 0.711, 0.642) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table.003 | centre=(-14.364, 8.250, 2.029) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Tableauquipese4TONNES.001 | centre=(11.334, 2.513, 9.848) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/Table.020 | centre=(7.584, 10.973, 15.097) taille=(1.404, 0.711, 0.750) haut=11,329 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.015 | centre=(-10.896, 8.250, 2.029) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table étage ¤\^^/¤.002 | centre=(-13.438, 11.028, -5.666) taille=(1.386, 0.712, 0.655) haut=11,383 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table étage ¤\^^/¤.001 | centre=(-12.038, 11.028, -5.666) taille=(1.386, 0.712, 0.655) haut=11,383 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Tableauquipese4TONNES.005 | centre=(12.346, 2.513, 8.828) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/Tableauquipese4TONNES.002 | centre=(12.346, 2.513, 10.919) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/Table sous sol.005 | centre=(-6.960, 1.870, 3.568) taille=(0.655, 0.712, 1.386) haut=2,226 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.005 | centre=(-17.826, 8.250, 3.352) taille=(0.634, 0.731, 1.375) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table sous sol.014 | centre=(-6.960, 1.870, 2.128) taille=(0.655, 0.712, 1.386) haut=2,226 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table sous sol.008 | centre=(-6.648, 1.878, 7.635) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table sous sol.004 | centre=(-0.071, 1.878, 0.943) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.044 | centre=(-10.188, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table.001 | centre=(-17.826, 8.250, 6.152) taille=(0.634, 0.731, 1.375) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table etage.005 | centre=(-15.351, 11.027, -2.174) taille=(0.667, 0.711, 0.642) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table.029 | centre=(11.724, 10.976, 12.095) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table etage.006 | centre=(-15.351, 11.027, -1.534) taille=(0.667, 0.711, 0.642) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table.024 | centre=(8.964, 10.976, 12.095) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.027 | centre=(11.724, 10.973, 15.097) taille=(1.404, 0.711, 0.750) haut=11,329 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Tableau.002 | centre=(4.647, 2.796, 0.552) taille=(3.826, 1.261, 0.011) haut=3,426 collider=False mats=WhiteBoard.002,
+Archi_MMI/Table.042 | centre=(-13.007, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table étage ¤\^^/¤.004 | centre=(-15.352, 11.028, -3.838) taille=(0.655, 0.712, 1.386) haut=11,383 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.010 | centre=(6.592, 10.976, 11.316) taille=(0.750, 0.711, 1.404) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.009 | centre=(-13.785, 8.227, 5.192) taille=(1.787, 0.724, 0.824) haut=8,589 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Table.006 | centre=(-17.826, 8.250, 4.752) taille=(0.634, 0.731, 1.375) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table sous sol.003 | centre=(-1.521, 1.878, 0.943) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table etage.001 | centre=(-15.351, 11.027, -4.862) taille=(0.667, 0.711, 0.642) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table etage | centre=(-14.469, 11.027, -5.662) taille=(0.642, 0.711, 0.667) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table.023 | centre=(11.724, 10.976, 13.295) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.002 | centre=(-17.227, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table.021 | centre=(8.964, 10.976, 13.295) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table sous sol | centre=(-5.871, 1.878, 0.943) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.038 | centre=(-13.789, 8.227, 4.340) taille=(1.787, 0.724, 0.824) haut=8,589 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Table sous sol.012 | centre=(-0.057, 1.878, 7.635) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.013 | centre=(12.734, 10.972, 14.085) taille=(0.750, 0.711, 1.404) haut=11,328 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/TableauContour | centre=(-9.103, 9.031, 4.989) taille=(0.011, 1.286, 3.863) haut=9,674 collider=False mats=wbBorderBlack,wbBorder,
+Archi_MMI/Table.004 | centre=(-15.764, 8.250, 2.029) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table sous sol.002 | centre=(-2.971, 1.878, 0.943) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.031 | centre=(11.724, 10.976, 10.861) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.041 | centre=(-14.427, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Tableau.001 | centre=(9.896, 12.190, 7.953) taille=(3.826, 1.261, 0.011) haut=12,820 collider=False mats=WhiteBoard,
+Archi_MMI/Table.018 | centre=(12.734, 10.972, 11.325) taille=(0.750, 0.711, 1.404) haut=11,328 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.019 | centre=(12.734, 10.972, 9.945) taille=(0.750, 0.711, 1.404) haut=11,328 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table etage.009 | centre=(-11.512, 11.027, -0.787) taille=(0.642, 0.711, 0.667) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/Table sous sol.001 | centre=(-4.421, 1.878, 0.943) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.028 | centre=(10.344, 10.976, 12.095) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.016 | centre=(-12.296, 8.250, 2.029) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table.035 | centre=(-5.370, 1.886, 2.787) taille=(0.824, 0.724, 1.787) haut=2,248 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Table.017 | centre=(6.592, 10.976, 9.936) taille=(0.750, 0.711, 1.404) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Tableau.004 | centre=(-9.929, 12.052, -3.107) taille=(0.011, 1.261, 3.826) haut=12,683 collider=False mats=WhiteBoard,
+Archi_MMI/Tableauquipese4TONNES.003 | centre=(12.346, 2.513, 9.848) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/TableauContour.001 | centre=(9.896, 12.190, 7.955) taille=(3.863, 1.286, 0.011) haut=12,833 collider=False mats=wbBorderBlack,wbBorder,
+Archi_MMI/Table.011 | centre=(6.592, 10.976, 12.696) taille=(0.750, 0.711, 1.404) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.025 | centre=(8.964, 10.973, 15.097) taille=(1.404, 0.711, 0.750) haut=11,329 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Tableauquipese4TONNES | centre=(11.334, 2.513, 10.919) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/Table.008 | centre=(-15.591, 8.227, 5.192) taille=(1.787, 0.724, 0.824) haut=8,589 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Table sous sol.011 | centre=(-1.497, 1.878, 7.635) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table sous sol.009 | centre=(-5.208, 1.878, 7.635) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.007 | centre=(-15.592, 8.227, 4.340) taille=(1.787, 0.724, 0.824) haut=8,589 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Table sous sol.006 | centre=(-6.960, 1.870, 5.008) taille=(0.655, 0.712, 1.386) haut=2,226 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.014 | centre=(12.734, 10.972, 12.705) taille=(0.750, 0.711, 1.404) haut=11,328 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table sous sol.010 | centre=(-3.768, 1.878, 7.635) taille=(1.386, 0.712, 0.655) haut=2,234 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table | centre=(-6.682, 8.266, 4.074) taille=(2.564, 0.723, 4.922) haut=8,627 collider=False mats=WoodTable,Metal,
+Archi_MMI/Table sous sol.007 | centre=(-6.960, 1.870, 6.448) taille=(0.655, 0.712, 1.386) haut=2,226 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/Table.026 | centre=(10.344, 10.973, 15.097) taille=(1.404, 0.711, 0.750) haut=11,329 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.043 | centre=(-11.607, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table.040 | centre=(-15.827, 8.250, 7.418) taille=(1.375, 0.731, 0.634) haut=8,616 collider=False mats=MetalTable,WoodTable,
+Archi_MMI/Table étage ¤\^^/¤ | centre=(-10.638, 11.028, -5.666) taille=(1.386, 0.712, 0.655) haut=11,383 collider=False mats=default.003,_0136_Charcoal.025,compScreen.004,WoodTable.006,MetalTable.006,_0136_Charcoal.023,
+Archi_MMI/TableauContour.004 | centre=(-9.932, 12.052, -3.107) taille=(0.011, 1.286, 3.863) haut=12,696 collider=False mats=wbBorderBlack,wbBorder,
+Archi_MMI/Table.030 | centre=(10.344, 10.976, 10.861) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Table.012 | centre=(6.592, 10.976, 14.076) taille=(0.750, 0.711, 1.404) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/Tableauquipese4TONNES.004 | centre=(12.346, 2.513, 12.013) taille=(0.737, 1.946, 0.872) haut=3,486 collider=False mats=Material.018,Material.017,Don't touche the cube blanc,Material.016,
+Archi_MMI/Table.000 | centre=(-4.478, 1.886, 5.860) taille=(1.847, 0.724, 1.847) haut=2,248 collider=False mats=MetalTable.005,WoodTable.005,
+Archi_MMI/Tableau | centre=(-9.101, 9.031, 4.989) taille=(0.011, 1.261, 3.826) haut=9,661 collider=False mats=WhiteBoard,
+Archi_MMI/Table etage.008 | centre=(-12.160, 11.027, -0.787) taille=(0.642, 0.711, 0.667) haut=11,382 collider=False mats=WoodTable.008,MetalTable.008,default.004,_0136_Charcoal.031,compScreen.005,_0136_Charcoal.029,
+Archi_MMI/TableauContour.003 | centre=(1.953, 2.802, 5.647) taille=(0.011, 1.286, 3.863) haut=3,445 collider=False mats=wbBorderBlack.002,wbBorder.002,
+Archi_MMI/Table.022 | centre=(10.344, 10.976, 13.295) taille=(1.404, 0.711, 0.750) haut=11,332 collider=False mats=WoodTable.001,MetalTable.001,_0136_Charcoal.007,_0136_Charcoal.003,_0136_Charcoal.005,default,compScreen.001,
+Archi_MMI/TableauContour.002 | centre=(4.647, 2.796, 0.555) taille=(3.863, 1.286, 0.011) haut=3,439 collider=False mats=wbBorderBlack.002,wbBorder.002,
+== Grandes surfaces horizontales hors Jackpot (taille > 0.6m, épaisseur < 0.15m, hauteur 0.5-1.3m au-dessus du sol XR) ==

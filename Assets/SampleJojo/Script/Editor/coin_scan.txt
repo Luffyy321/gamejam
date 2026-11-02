@@ -1,0 +1,44 @@
+=== Assets/SampleJojo/model/Props/Coin/MMIcoins.fbx
+  MMIcoins lpos=(0.000, 0.000, 0.000) lrot=(0, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  MMIcoins/piece lpos=(0.000, 0.000, 0.000) lrot=(270, 0, 0) lsc=(100.000, 100.000, 100.000) rendu=True centre=(0.0000, 0.0000, 0.0000) taille=(2.0334, 0.1520, 2.0334) verts=16159 subs=1 mats=Or{Universal Render Pipeline/Lit col=RGBA(0.91, 0.73, 0.00, 1.00)}
+  MMIcoins/piece/Text lpos=(0.007, -0.002, 0.000) lrot=(0, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=True centre=(0.0167, 0.0000, -0.0218) taille=(1.3976, 0.1100, 0.5129) verts=456 subs=1 mats=Or{Universal Render Pipeline/Lit col=RGBA(0.91, 0.73, 0.00, 1.00)}
+  MMIcoins/Sun lpos=(0.000, 6.426, 0.000) lrot=(90, 0, 0) lsc=(100.000, 100.000, 100.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  importer: scale=1 useFileScale=True fileScale=0,01 materials=ImportViaMaterialDescription loc=InPrefab
+  sous-asset: Material Or
+=== Assets/SampleJojo/model/Props/sac/backpack.fbx
+  backpack lpos=(0.000, 0.000, 0.000) lrot=(0, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root lpos=(0.000, 0.048, 0.002) lrot=(270, 0, 0) lsc=(14.600, 14.600, 14.600) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base lpos=(0.000, 0.000, 0.000) lrot=(360, 90, 90) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0 lpos=(0.005, 0.014, 0.000) lrot=(0, 360, 75) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1 lpos=(0.000, 0.001, 0.000) lrot=(0, 0, 12) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2 lpos=(0.000, 0.003, 0.000) lrot=(0, 0, 16) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3 lpos=(0.000, 0.004, 0.000) lrot=(0, 0, 18) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4 lpos=(0.000, 0.004, 0.000) lrot=(0, 0, 21) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4/Cover5 lpos=(0.000, 0.004, 0.000) lrot=(0, 0, 24) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4/Cover5/Cover6 lpos=(0.000, 0.004, 0.000) lrot=(342, 90, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4/Cover5/Cover6/Lock0 lpos=(0.000, 0.009, 0.000) lrot=(329, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4/Cover5/Cover6/Lock0/Lock1 lpos=(0.000, 0.002, 0.000) lrot=(323, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Cover0/Cover1/Cover2/Cover3/Cover4/Cover5/Cover6/Lock0/Lock1/Lock2 lpos=(0.000, 0.002, 0.000) lrot=(341, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftBottomCylinder lpos=(0.000, -0.007, 0.004) lrot=(0, 342, 180) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftBottomCylinder/LeftHandleBottom lpos=(-0.012, 0.000, 0.000) lrot=(42, 264, 342) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftBottomCylinder/LeftHandleHolder lpos=(0.000, 0.001, 0.000) lrot=(0, 15, 71) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftBottomCylinder/LeftHandleMiddle lpos=(-0.014, -0.010, -0.001) lrot=(81, 100, 174) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftBottomCylinder/LeftHandleTop lpos=(-0.010, -0.020, -0.002) lrot=(34, 68, 147) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/LeftRing lpos=(-0.002, 0.007, 0.008) lrot=(335, 360, 180) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Pocket lpos=(-0.006, 0.008, 0.000) lrot=(0, 180, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightBottomCylinder lpos=(0.000, -0.007, -0.004) lrot=(0, 198, 180) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightBottomCylinder/RightHandleBottom lpos=(0.012, 0.000, 0.000) lrot=(42, 96, 18) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightBottomCylinder/RightHandleHolder lpos=(0.000, 0.001, 0.000) lrot=(0, 345, 289) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightBottomCylinder/RightHandleMiddle lpos=(0.014, -0.010, -0.001) lrot=(81, 260, 186) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightBottomCylinder/RightHandleTop lpos=(0.010, -0.020, -0.002) lrot=(34, 292, 213) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/RightRing lpos=(-0.002, 0.007, -0.008) lrot=(335, 180, 180) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/UpperHandle lpos=(0.006, 0.017, 0.000) lrot=(346, 270, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/Root/Base/Zipper lpos=(-0.007, -0.001, 0.007) lrot=(348, 360, 180) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  backpack/School Backpack lpos=(0.000, -0.046, 0.000) lrot=(270, 0, 0) lsc=(14.600, 14.600, 14.600) rendu=True centre=(0.0002, 0.0813, -0.0723) taille=(0.3568, 0.4390, 0.4308) verts=1885 subs=1 mats=BackPack{Universal Render Pipeline/Lit tex=backpack_lp_BackPack_BaseColor col=RGBA(1.00, 1.00, 1.00, 1.00)}
+  importer: scale=1 useFileScale=True fileScale=0,01 materials=ImportViaMaterialDescription loc=InPrefab
+  sous-asset: Material BackPack
+=== Assets/SampleJojo/model/Props/Post-it/PostIt.fbx
+  PostIt lpos=(0.000, 0.000, 0.000) lrot=(0, 0, 0) lsc=(1.000, 1.000, 1.000) rendu=False centre=(0.0000, 0.0000, 0.0000) taille=(0.0000, 0.0000, 0.0000) verts=0 subs=0 mats=
+  PostIt/Plane lpos=(0.000, 0.000, 0.000) lrot=(270, 0, 0) lsc=(100.000, 100.000, 100.000) rendu=True centre=(0.0009, 0.1711, 0.0000) taille=(1.9981, 0.3422, 2.0000) verts=25 subs=1 mats=Lit{Universal Render Pipeline/Lit col=RGBA(0.50, 0.50, 0.50, 1.00)}
+  PostIt/Plane.001 lpos=(0.000, 0.000, -2.283) lrot=(270, 0, 0) lsc=(100.000, 100.000, 100.000) rendu=True centre=(0.0014, 0.1097, -2.2829) taille=(1.9972, 0.2194, 2.0000) verts=25 subs=1 mats=Lit{Universal Render Pipeline/Lit col=RGBA(0.50, 0.50, 0.50, 1.00)}
+  importer: scale=1 useFileScale=True fileScale=0,01 materials=ImportViaMaterialDescription loc=InPrefab

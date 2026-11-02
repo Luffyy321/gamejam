@@ -1,0 +1,83 @@
+== Grands éléments dans la zone de la salle ==
+VenetianFrame.020 centre=(-0.22, 3.28, 7.94) taille=(1.65, 0.06, 0.04) parent=Archi_MMI
+Cube.046 centre=(3.56, 1.39, 3.50) taille=(22.07, 0.27, 18.46) parent=Archi_MMI
+TableauContour.002 centre=(4.65, 2.80, 0.55) taille=(3.86, 1.29, 0.01) parent=Archi_MMI
+Cube.049 centre=(5.08, 2.63, 10.30) taille=(0.33, 2.94, 4.58) parent=Archi_MMI
+Venetian_slats.022 centre=(4.48, 2.43, 7.94) taille=(1.32, 1.59, 0.04) parent=VenetianFrame.022
+Desk_Top centre=(0.28, 2.18, 6.18) taille=(1.12, 0.05, 1.68) parent=Bureau
+TableauContour.003 centre=(1.95, 2.80, 5.65) taille=(0.01, 1.29, 3.86) parent=Archi_MMI
+Cube.047 centre=(-7.60, 2.63, 3.97) taille=(0.33, 2.94, 8.76) parent=Archi_MMI
+Cube.045 centre=(2.12, 2.63, 5.82) taille=(0.33, 2.94, 5.06) parent=Archi_MMI
+Cube.115 centre=(5.27, 2.49, 9.23) taille=(0.19, 1.93, 0.98) parent=Archi_MMI
+Venetian_slats.017 centre=(-2.04, 2.43, 7.94) taille=(1.65, 1.59, 0.04) parent=VenetianFrame.017
+Venetian_slats.023 centre=(5.32, 2.43, 10.51) taille=(0.04, 1.59, 1.32) parent=VenetianFrame.023
+Cube.034 centre=(3.37, 3.77, 3.44) taille=(22.29, 0.55, 22.64) parent=Archi_MMI
+VenetianFrame.017 centre=(-2.04, 3.28, 7.94) taille=(1.65, 0.06, 0.04) parent=Archi_MMI
+Cube.038 centre=(2.17, 2.51, 2.67) taille=(0.44, 1.97, 1.43) parent=Archi_MMI
+Venetian_slats.021 centre=(3.02, 2.43, 7.94) taille=(1.32, 1.59, 0.04) parent=VenetianFrame.021
+Venetian_slats.020 centre=(-0.22, 2.43, 7.94) taille=(1.65, 1.59, 0.04) parent=VenetianFrame.020
+Plane.132 centre=(3.75, 2.49, 7.96) taille=(2.90, 1.93, 0.10) parent=Archi_MMI
+Cube.040 centre=(3.01, 2.63, 8.18) taille=(4.46, 3.08, 0.35) parent=Archi_MMI
+Cube.048 centre=(-3.42, 2.63, 8.18) taille=(8.41, 3.08, 0.35) parent=Archi_MMI
+Cube.114 centre=(1.22, 2.49, 7.98) taille=(0.98, 1.93, 0.19) parent=Archi_MMI
+Tableau.003 centre=(1.96, 2.80, 5.65) taille=(0.01, 1.26, 3.83) parent=Archi_MMI
+Merged_Objects centre=(0.27, 1.82, 6.18) taille=(1.02, 0.65, 1.55) parent=Bureau
+Plane.135 centre=(5.29, 2.49, 8.37) taille=(0.10, 1.93, 0.69) parent=Archi_MMI
+Cube.120 centre=(-2.84, 2.08, 0.16) taille=(9.70, 3.42, 0.78) parent=Archi_MMI
+Plane.134 centre=(5.29, 2.49, 11.16) taille=(0.10, 1.93, 2.86) parent=Archi_MMI
+Tableau.002 centre=(4.65, 2.80, 0.55) taille=(3.83, 1.26, 0.01) parent=Archi_MMI
+Cube.037 centre=(4.99, 2.08, 0.16) taille=(5.95, 3.42, 0.78) parent=Archi_MMI
+Venetian_slats.025 centre=(5.32, 2.49, 8.38) taille=(0.04, 1.59, 0.59) parent=VenetianFrame.025
+Cube.095 centre=(2.12, 2.63, 1.20) taille=(0.33, 2.94, 1.51) parent=Archi_MMI
+Plane.131 centre=(-1.13, 2.49, 7.96) taille=(3.63, 1.93, 0.10) parent=Archi_MMI
+Scary_Teacher centre=(-4.08, 2.24, 1.97) taille=(1.10, 1.75, 0.88) parent=Modele prof
+== Près des poignées de porte ==
+[poignée] Door_Knob (0.89, 1.84, 5.90)
+   proche : Box_-_baked centre=(0.82, 1.83, 5.78) taille=(0.23, 0.54, 0.32)
+   proche : Merged_Objects centre=(0.27, 1.82, 6.18) taille=(1.02, 0.65, 1.55)
+   proche : Untitled centre=(1.00, 2.07, 6.27) taille=(1.21, 1.10, 1.21)
+   proche : Box_1_-_baked centre=(0.83, 1.83, 5.78) taille=(0.26, 0.54, 0.34)
+[poignée] Door_Knob_2 (0.50, 1.90, 6.71)
+   proche : Box_-_baked_1 centre=(0.41, 1.83, 6.70) taille=(0.57, 0.55, 0.50)
+   proche : Box_1_-_baked_1 centre=(0.50, 1.97, 6.72) taille=(0.18, 0.30, 0.45)
+   proche : Box_-_baked_4 centre=(0.50, 1.97, 6.72) taille=(0.17, 0.30, 0.45)
+   proche : Desk_Top centre=(0.28, 2.18, 6.18) taille=(1.12, 0.05, 1.68)
+   proche : Box_-_baked_3 centre=(0.66, 1.66, 6.76) taille=(0.15, 0.26, 0.45)
+   proche : Box_-_baked_2 centre=(0.66, 1.66, 6.76) taille=(0.15, 0.26, 0.45)
+   proche : Merged_Objects centre=(0.27, 1.82, 6.18) taille=(1.02, 0.65, 1.55)
+   proche : Door_Knob_1 centre=(0.67, 1.69, 6.76) taille=(0.06, 0.05, 0.06)
+   proche : Untitled centre=(1.00, 2.07, 6.27) taille=(1.21, 1.10, 1.21)
+   proche : Door_Knob_3 centre=(0.53, 2.06, 6.72) taille=(0.06, 0.05, 0.06)
+[poignée] Door_Knob_1 (0.67, 1.69, 6.76)
+   proche : Box_-_baked_1 centre=(0.41, 1.83, 6.70) taille=(0.57, 0.55, 0.50)
+   proche : Cube.046 centre=(3.56, 1.39, 3.50) taille=(22.07, 0.27, 18.46)
+   proche : Box_1_-_baked_1 centre=(0.50, 1.97, 6.72) taille=(0.18, 0.30, 0.45)
+   proche : Box_-_baked_4 centre=(0.50, 1.97, 6.72) taille=(0.17, 0.30, 0.45)
+   proche : Box_-_baked_3 centre=(0.66, 1.66, 6.76) taille=(0.15, 0.26, 0.45)
+   proche : Door_Knob_2 centre=(0.50, 1.90, 6.71) taille=(0.06, 0.05, 0.06)
+   proche : Box_-_baked_2 centre=(0.66, 1.66, 6.76) taille=(0.15, 0.26, 0.45)
+   proche : Merged_Objects centre=(0.27, 1.82, 6.18) taille=(1.02, 0.65, 1.55)
+   proche : Untitled centre=(1.00, 2.07, 6.27) taille=(1.21, 1.10, 1.21)
+[poignée] Door_Knob_3 (0.53, 2.06, 6.72)
+   proche : Box_-_baked_1 centre=(0.41, 1.83, 6.70) taille=(0.57, 0.55, 0.50)
+   proche : pCylinder57 centre=(0.39, 2.23, 6.63) taille=(0.03, 0.00, 0.03)
+   proche : Box_1_-_baked_1 centre=(0.50, 1.97, 6.72) taille=(0.18, 0.30, 0.45)
+   proche : pCube3 centre=(0.43, 2.24, 6.65) taille=(0.06, 0.05, 0.24)
+   proche : Box_-_baked_4 centre=(0.50, 1.97, 6.72) taille=(0.17, 0.30, 0.45)
+   proche : Desk_Top centre=(0.28, 2.18, 6.18) taille=(1.12, 0.05, 1.68)
+   proche : pCube20 centre=(0.30, 2.23, 6.58) taille=(0.22, 0.03, 0.05)
+   proche : pCube23 centre=(0.33, 2.23, 6.70) taille=(0.09, 0.01, 0.05)
+   proche : pCube24 centre=(0.33, 2.23, 6.70) taille=(0.09, 0.00, 0.05)
+   proche : pCylinder56 centre=(0.40, 2.23, 6.62) taille=(0.03, 0.01, 0.03)
+   proche : pCube25 centre=(0.33, 2.23, 6.70) taille=(0.09, 0.00, 0.05)
+   proche : pCube17 centre=(0.25, 2.23, 6.82) taille=(0.24, 0.05, 0.07)
+   proche : pCube21 centre=(0.32, 2.23, 6.67) taille=(0.22, 0.03, 0.05)
+   proche : Door_Knob_2 centre=(0.50, 1.90, 6.71) taille=(0.06, 0.05, 0.06)
+   proche : pCube22 centre=(0.33, 2.23, 6.73) taille=(0.22, 0.03, 0.05)
+   proche : Merged_Objects centre=(0.27, 1.82, 6.18) taille=(1.02, 0.65, 1.55)
+   proche : Untitled centre=(1.00, 2.07, 6.27) taille=(1.21, 1.10, 1.21)
+   proche : pCylinder96 centre=(0.37, 2.23, 6.61) taille=(0.02, 0.00, 0.02)
+   proche : pCylinder101 centre=(0.34, 2.23, 6.61) taille=(0.06, 0.02, 0.06)
+   proche : pCube26 centre=(0.22, 2.20, 6.69) taille=(0.30, 0.02, 0.35)
+   proche : pCylinder16 centre=(0.44, 2.24, 6.65) taille=(0.03, 0.02, 0.04)
+   proche : pCube2 centre=(0.32, 2.23, 6.67) taille=(0.27, 0.04, 0.29)
